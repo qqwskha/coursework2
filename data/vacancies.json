@@ -698,5 +698,803 @@
         "salary_from": 50000,
         "salary_to": null,
         "description": "Технологический стек: Python, Django, PostgreSQL, REST API, Docker, Git, k8s, итд. Ответственный подход к решению задач. "
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Разработчик фронтэнда",
+        "url": "https://hh.ru/vacancy/116997262",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Умение профессионально работать с JavaScript, ReactjS, TypeScript. Знание английского языка."
+    },
+    {
+        "title": "Java-разработчик",
+        "url": "https://hh.ru/vacancy/117110836",
+        "salary_from": 100000,
+        "salary_to": 200000,
+        "description": "Небольшой коммерческий опыт на позиции Junior Java <highlighttext>Developer</highlighttext>. Личные качества. Командная работа: умение слышать и поддерживать коллег, делиться знаниями. "
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117114407",
+        "salary_from": 6000000,
+        "salary_to": 10000000,
+        "description": "Опыт работы с React от 1 года. - Уверенные знания JavaScript (ES6+) / TypeScript. - Опыт адаптивной верстки и понимание UI..."
+    },
+    {
+        "title": "Java-разработчик",
+        "url": "https://hh.ru/vacancy/117076905",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Java 8/17: Уверенные знания и опыт разработки на Java, включая использование новейших возможностей языка. JPA и JDBC: Опыт работы..."
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117062798",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт разработки веб-приложений с интеграцией с Go (Golang) backend. Владение одним или несколькими frontend-стеками (React, Vue, Angular, Svelte..."
+    },
+    {
+        "title": "Backend-разработчик (Java Spring)",
+        "url": "https://hh.ru/vacancy/117114557",
+        "salary_from": 6000000,
+        "salary_to": null,
+        "description": "Опыт работы от 1 года с Java + Spring Boot. - Знание SQL и работы с реляционными БД (PostgreSQL, MySQL). - "
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117268996",
+        "salary_from": 5000000,
+        "salary_to": null,
+        "description": "Опыт работы с JavaScript (от 2-х лет). Опыт работы с VueJS, NodeJS. Хорошее знание сопутствующих технологий HTML5, CSS..."
+    },
+    {
+        "title": "Стажер Python Engineer",
+        "url": "https://hh.ru/vacancy/117015393",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание Python 3+ и основ программирования. Опыт работы с Django (пет-проекты или оконченные курсы). Навыки работы с базами..."
+    },
+    {
+        "title": "Intern",
+        "url": "https://hh.ru/vacancy/116778961",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "If you're the final year student (4th course) and motivated and curious, with degree or expected degree (higher..."
+    },
+    {
+        "title": "Frontend-разработчик junior",
+        "url": "https://hh.ru/vacancy/117022964",
+        "salary_from": 5000000,
+        "salary_to": 8000000,
+        "description": "Владение HTML5, CSS3. Хорошее знание JavaScript (ES6+). Базовые знания Vue 3. Базовые знания UX/UI-дизайна. "
+    },
+    {
+        "title": "Операционный директор (COO)",
+        "url": "https://hh.ru/vacancy/117254686",
+        "salary_from": 400000,
+        "salary_to": 700000,
+        "description": "Опыт работы на руководящих позициях в сфере логистики, продаж или автомобильного бизнеса от 3 лет. Знание особенностей международной торговли и..."
+    },
+    {
+        "title": "Java-разработчик",
+        "url": "https://hh.ru/vacancy/117068398",
+        "salary_from": 45000000,
+        "salary_to": 75000000,
+        "description": "Отличные знания Java 17 и опыт работы в высоконагруженных средах. Понимание принципов работы Apache Karaf для гибкости и масштабируемости приложений. "
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117140027",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы от 3х лет: JavaScript, TypeScript, React, HTML, CSS, . Понимание принципов ООП и паттернов проектирования. Понимание принципов разработки..."
+    },
+    {
+        "title": "Flutter разработчик",
+        "url": "https://hh.ru/vacancy/117205198",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт не менее 2-5 лет в разработке мобильных или иных приложений, включая минимум 2 год работы с Flutter. "
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117260713",
+        "salary_from": 90000,
+        "salary_to": 130000,
+        "description": "Понимание и опыт применения современных методологий разработки. Умение понимать и дорабатывать чужой код, находить и устранять недостатки в логике и..."
+    },
+    {
+        "title": "Веб-разработчик React",
+        "url": "https://hh.ru/vacancy/117088891",
+        "salary_from": 10000000,
+        "salary_to": null,
+        "description": "Знание HTML5 верстки, JS, PHP, MySQL. Работа с базой данных, сессиями, кукисами, функциями и методами. Знания как устроен шаблонизатор..."
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117242309",
+        "salary_from": null,
+        "salary_to": 15000000,
+        "description": "Уверенные знания JavaScript, HTML5, CSS3. - Опыт работы с React.js или Vue.js. - Понимание принципов компонентного дизайна и управления состоянием..."
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117282554",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Не менее одного года опыта разработки frontend приложений. Хорошо знать и применять на практике чистый JavaScript, TypeScript и ориентироваться в..."
+    },
+    {
+        "title": "Junior Java-разработчик (система Антифрод)",
+        "url": "https://hh.ru/vacancy/117269734",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее или неоконченное (рассматриваются также студенты последних курсов) ИТ образование. Знание Java EE. Твердое знание стандарта SQL. Умение работать в..."
+    },
+    {
+        "title": "Frontend разработчик React",
+        "url": "https://hh.ru/vacancy/117286008",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Вы имеете подтвержденный коммерческий опыт от 3-х лет в крупных ИТ-компаниях. React — ваша основная сила, и вы уверенно..."
+    },
+    {
+        "title": "Junior UI/UX Designer",
+        "url": "https://hh.ru/vacancy/117171943",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "1-3 years of experience within Product Design or related field. Decent competency in Figma for designing and prototyping. "
+    },
+    {
+        "title": "Chief Product Officer (CPO)",
+        "url": "https://hh.ru/vacancy/116207548",
+        "salary_from": 5000,
+        "salary_to": null,
+        "description": "Стартаперность (это фьюжн из инициативности, ответственности, визионерства). Желание много работать и работать при этом ручками."
+    },
+    {
+        "title": "Тестировщик информационных систем",
+        "url": "https://hh.ru/vacancy/117142587",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Взаимодействие с другими командами: способность эффективно общаться с <highlighttext>разработчиками</highlighttext>, аналитиками, менеджерами и пользователями системы. Документирование и отчетность: умение четко и..."
+    },
+    {
+        "title": "Практикант - UX/UI разработчик",
+        "url": "https://hh.ru/vacancy/117246365",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Учащиеся на последних курсах специальностей, связанных с дизайном, разработкой или информационными технологиями. Знание основ UX/UI дизайна и принципов работы..."
+    },
+    {
+        "title": "Middle Python Developer (офис, гибрид)",
+        "url": "https://hh.ru/vacancy/116018760",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Опыт программирования на Python 2.7/3.10+ на уровне Senior. Близкий стек: Flask, FastAPI, Celery, Kafka, MySQL, Redis..."
+    },
+    {
+        "title": "Middle Frontend Developer",
+        "url": "https://hh.ru/vacancy/117263261",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт от 2-х лет. JavaScript. React. Html, CSS. Git (rebase, merge, cherry-pick etc). Работа с макетами Figma. "
+    },
+    {
+        "title": "Бухгалтер (участки ТМЦ и ОС)",
+        "url": "https://hh.ru/vacancy/116801046",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее образование (бухгалтерское). Стаж работы в аналогичной должности. Опыт работы с учетом спецодежды - обязательно. Знание счетов 10 (10.21, 10..."
+    },
+    {
+        "title": "QA engineer (Специалист по ручному тестированию)",
+        "url": "https://hh.ru/vacancy/117209193",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт в тестировании веб-сайтов или веб-приложений от 1 года. Понимание принципов работы веб-приложений и сайтов. "
+    },
+    {
+        "title": "Ведущий бухгалтер на участок «Анализ дебиторской задолженности и реализация»",
+        "url": "https://hh.ru/vacancy/117234502",
+        "salary_from": 180000,
+        "salary_to": null,
+        "description": "Высшее образование (профильное). Релевантный опыт на подобных участках от 5-ти лет в компании на ОСНО. Знание основных бухгалтерских проводок..."
+    },
+    {
+        "title": "QA engineer (Специалист по ручному тестированию)",
+        "url": "https://hh.ru/vacancy/117282624",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт в тестировании приложений от 1,5 лет. Понимание принципов работы веб-приложений и мобильных приложений. Знание теории тестирования и..."
+    },
+    {
+        "title": "Водитель легкового автомобиля",
+        "url": "https://hh.ru/vacancy/117181359",
+        "salary_from": 50000,
+        "salary_to": 60000,
+        "description": "Хотим найти: Ответственного и трудолюбивого сотрудника, с соответствующим опытом работы. Наличие видеорегистратора на автомобиле."
+    },
+    {
+        "title": "Middle QA Engineer",
+        "url": "https://hh.ru/vacancy/117242783",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Уверенные знания в области методологий и техник ручного тестирования. Отличное понимание SDLC (Software <highlighttext>Development</highlighttext> Life Cycle) и STLC (Software Testing..."
+    },
+    {
+        "title": "Frontend разработчик",
+        "url": "https://hh.ru/vacancy/117208121",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт разработки на JavaScript и React не менее 3 лет. Глубокие знания HTML/CSS/LESS, XML/JSON. Опыт работы с..."
+    },
+    {
+        "title": "Бэкенд разработчик (Java/Kotlin)",
+        "url": "https://hh.ru/vacancy/117285677",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Экспертные знания: Умение работать в команде, давать и принимать конструктивную обратную связь. Желание постоянно совершенствоваться в профессии и изучать новые..."
+    },
+    {
+        "title": "Frontend разработчик React js (junior)",
+        "url": "https://hh.ru/vacancy/117286113",
+        "salary_from": 2500000,
+        "salary_to": null,
+        "description": "Опыт работы или учебные проекты на React.js. Базовые знания HTML, CSS, JavaScript. Знакомство с TypeScript (будет плюсом). Опыт работы с..."
+    },
+    {
+        "title": "Frontend developer",
+        "url": "https://hh.ru/vacancy/117213005",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Стек: HTML,CSS, React, Redux, JavaScript, Typescript. Опыт работы с React, Redux. Хорошее знание верстки: HTML5, CSS3, БЭМ. "
+    },
+    {
+        "title": "Разработчик React",
+        "url": "https://hh.ru/vacancy/117212229",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт разработки на React от 1.5-2 лет. Понимание REST, SOAP, синхронные и асинхронные взаимодействия. Умение работать с JSON..."
+    },
+    {
+        "title": "C# Backend Developer (Япония, Токио)",
+        "url": "https://hh.ru/vacancy/117208304",
+        "salary_from": 3500,
+        "salary_to": null,
+        "description": "Будет большим плюсом: — Опыт Full-stack <highlighttext>разработчика</highlighttext> и понимание современного Front-end стека (Typescript/JS/React/HTML/CSS). — "
+    },
+    {
+        "title": "UX/UI Designer Junior/Middle",
+        "url": "https://hh.ru/vacancy/117248106",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Умение объяснять свои решения и вести коммуникацию с командой, владельцами продуктов и <highlighttext>разработчиками</highlighttext>. Внимательность к деталям, понимание принципов композиции, ценности..."
+    },
+    {
+        "title": "Middle Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117252988",
+        "salary_from": null,
+        "salary_to": 200000,
+        "description": "Хорошее знание React и TypeScript, умение писать переиспользуемые компоненты. Хорошее знание HTML/CSS. Опыт работы со стейт-менеджерами (например, Redux..."
+    },
+    {
+        "title": "Личный помощник директора",
+        "url": "https://hh.ru/vacancy/117262012",
+        "salary_from": 150000,
+        "salary_to": null,
+        "description": "Высшее образование (экономическое будет преимуществом). Высокие административные навыки, а также правила ведения документооборота и делового этикета. Переговорные навыки, опыт ведения..."
+    },
+    {
+        "title": "Frontend-разработчик (Стажер)",
+        "url": "https://hh.ru/vacancy/117262781",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Понимание и применение CI/CD-процессов для развертывания приложений. Интеграция серверного код с front-end технологиями (HTML, CSS, JavaScript). "
+    },
+    {
+        "title": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/117143190",
+        "salary_from": 1000,
+        "salary_to": 2000,
+        "description": "От 2 лет коммерческого опыта в backend-разработке на Python. Уверенные знания FastAPI, SQLAlchemy, Pydantic. Опыт работы с PostgreSQL, Redis..."
+    },
+    {
+        "title": "Senior React developer",
+        "url": "https://hh.ru/vacancy/117234274",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Уверенно знаешь JavaScript, его основные концепции и актуальный синтаксис. Оперируешь асинхронщиной: event loop, таймеры, Promise, async/await. Свободно пишешь клиентскую..."
+    },
+    {
+        "title": "Middle frontend разработчик",
+        "url": "https://hh.ru/vacancy/117281005",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Уверенные знания front-end фреймворков (VueJS). Умение разбираться в чужом коде и грамотно оформлять свой. Уверенные знания CSS/SCSS, JavaScript..."
+    },
+    {
+        "title": "Ижненер-тестировщик (QA)",
+        "url": "https://hh.ru/vacancy/117232844",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Умение руководствоваться установленными контрактами и ожидаемым поведением разрабатываемого функционала ПО, компонентов и API, согласно документации. Понимание процессов QA и тестирования..."
+    },
+    {
+        "title": "QA инженер (тестировщик)",
+        "url": "https://hh.ru/vacancy/116702370",
+        "salary_from": 100000,
+        "salary_to": 140000,
+        "description": "Иметь опыт тестирования программного обеспечения, либо оконченные курсы по специализации QA, либо опыт разработки ПО в качестве <highlighttext>разработчика</highlighttext>. "
+    },
+    {
+        "title": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/117266220",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Базовые знания: - html. - SQL. - понимание как и зачем писать чек-листы. Опыт работы: - Selenium Webdriver / Playwright. - среда разработки - IntelliJ IDEA..."
+    },
+    {
+        "title": "ИТ директор / CIO",
+        "url": "https://hh.ru/vacancy/117114781",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Формирование и управление командой IT-профессионалов и развитие их навыков. Требования к опыту и квалификации кандидата: Высшее образование в области..."
+    },
+    {
+        "title": "Стажер Fullstack-разработчик (Практика)",
+        "url": "https://hh.ru/vacancy/117121495",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Уровни языков Junior, Mid Junior: C# (.NET), PHP, JavaScript на уровне. Фреймворки: .NET Framework/.NET Core, PHP-фреймворки (Laravel, Symfony..."
+    },
+    {
+        "title": "Junior - разработчик",
+        "url": "https://hh.ru/vacancy/117172257",
+        "salary_from": 70000,
+        "salary_to": null,
+        "description": "Знания основ CS (computer science), как работают компьютеры и сеть (локальная, интернет). Умение работать с ОС Linux (Ubuntu) - развертывание приложений..."
+    },
+    {
+        "title": "Middle Frontend developer",
+        "url": "https://hh.ru/vacancy/117166941",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Работа над технологически сложными проектами, которые меняют индустрию. Культура постоянного развития и обмена знаниями внутри команды. Возможность расти как технически..."
+    },
+    {
+        "title": "QA Engineer / Инженер по тестированию Middle",
+        "url": "https://hh.ru/vacancy/117040459",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание yaml для самостоятельной настройки сервисов по инструкциям <highlighttext>разработчика</highlighttext>. Умение самостоятельно анализировать схемы и требования. Строить тестовое покрытие как доработки..."
+    },
+    {
+        "title": "Middle Frontend-разработчик (React)",
+        "url": "https://hh.ru/vacancy/117098411",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы в качестве фронт <highlighttext>разработчика</highlighttext> от 3 лет (typescript, react, redux). Знания REST, git. Опыт работы в Agile/Scrum..."
+    },
+    {
+        "title": "Junior Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/115796950",
+        "salary_from": 125000,
+        "salary_to": null,
+        "description": "Java Script. HTML и CSS. React и/или React Native. Redux, MobX, Recoil. REST API. Git. Желание развиваться в профессии..."
+    },
+    {
+        "title": "Junior Backend-разработчик/стажер (Python)",
+        "url": "https://hh.ru/vacancy/115797396",
+        "salary_from": 125000,
+        "salary_to": null,
+        "description": "Python. Flask, Django или FastAPI. PostgreSQL, MySQL и др. Git и Docker. Unittest, Pytest. Желание развиваться в профессии и прикладывать..."
+    },
+    {
+        "title": "Frontend-разработчик (React, Next.js)",
+        "url": "https://hh.ru/vacancy/116996185",
+        "salary_from": null,
+        "salary_to": 34800000,
+        "description": "<highlighttext>Разработчика</highlighttext> с опытом работы в React, Next.js и адаптивной верстке. Специалиста, умеющего интегрировать API и работать с динамическими данными. "
+    },
+    {
+        "title": "Middle Frontend разработчик",
+        "url": "https://hh.ru/vacancy/115415761",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "SASS (SCSS). Знание современного ES2023. Vue 3. Git. Npm/Yarn, мы работаем на Yarn. Вёрстка по Figma. Docker. "
+    },
+    {
+        "title": "Юрист",
+        "url": "https://hh.ru/vacancy/117250288",
+        "salary_from": 120000,
+        "salary_to": null,
+        "description": "Будет преимуществом: - опыт работы в компании-<highlighttext>разработчике</highlighttext> ПО, телекоме или в сфере услуг. - участие в дью-дил и проектах M..."
+    },
+    {
+        "title": "Менеджер по работе с корпоративными клиентами (продукты СКБ Контур)",
+        "url": "https://hh.ru/vacancy/116159656",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "description": "Требуемый опыт работы: приветствуется опыт работы в продажах, работа с продуктами СКБ Контур, проводим обучение новичков. Среднее профессиональное, неоконченное высшее..."
+    },
+    {
+        "title": "Middle QA Engineer",
+        "url": "https://hh.ru/vacancy/116454838",
+        "salary_from": null,
+        "salary_to": 180000,
+        "description": "Имеет опыт тестирования мобильных и/или десктопных приложений от 2-х лет. Хорошо знаком с теорией тестирования. Понимает цикл разработки..."
+    },
+    {
+        "title": "Инженер по тестированию ПО",
+        "url": "https://hh.ru/vacancy/117246175",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт тестирования от 2 лет (желательно backend приложений). Опыт проведения функционального, интеграционного, нагрузочного тестирования. Опыт работы на Linux. "
+    },
+    {
+        "title": "Java Developer (middle)",
+        "url": "https://hh.ru/vacancy/117253646",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Уверенное знание Java 11 и современных фреймворков (Spring Boot). Ясное представление того, чем хороший код отличается от плохого. "
+    },
+    {
+        "title": "Тестировщик / QA engineer",
+        "url": "https://hh.ru/vacancy/116510289",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы в тестировании от 1 года. Понимание специфики задач, связанных с тестированием. Знаком с основными понятиями и методами, используемыми..."
+    },
+    {
+        "title": "Middle frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117286741",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "От тебя потребуется: Высшее техническое образование. Отличное знание HTML5, CSS3, SASS/ SCSS, JavaScript/TypeScript. Опыт кроссбраузерной/адаптивной вёрстки..."
+    },
+    {
+        "title": "Backend-разработчик на Java",
+        "url": "https://hh.ru/vacancy/117157519",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Релевантный опыт коммерческой разработки от 2х лет. Умение читать чужой сложный код. Желание изучать и применять новые для себя..."
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117281272",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Базовые знания HTML, CSS и JavaScript, React, Typescript. Понимание принципов работы React и желание углублять свои знания в этой области. "
+    },
+    {
+        "title": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/110412718",
+        "salary_from": 75000,
+        "salary_to": null,
+        "description": "Базовые знания Python. Опыт написания REST приложений на любом Python фреймворке (Flask, FastAPI, Django и др.). Понимание основ SQL и..."
+    },
+    {
+        "title": "C#/.NET-разработчик",
+        "url": "https://hh.ru/vacancy/114991753",
+        "salary_from": 175000,
+        "salary_to": null,
+        "description": "Уверенные знания C# и платформы .NET Core. Опыт разработки микросервисов. Уверенные знания MSSQL. Опыт разработки REST API. Опыт работы с..."
+    },
+    {
+        "title": "Middle+ Typescript Frontend Developer",
+        "url": "https://hh.ru/vacancy/116206457",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт web-разработки (Typescript, Javascript, HTML, CSS) от 2 лет. Требования. Опыт работы с web-фреймворками, такими как Next, Vue..."
+    },
+    {
+        "title": "Менеджер",
+        "url": "https://hh.ru/vacancy/117151947",
+        "salary_from": 300000,
+        "salary_to": 300000,
+        "description": "Ответсвенный, умение работать в команде ,стрессоустойчивый , коммункабельный."
+    },
+    {
+        "title": "Руководитель департамента тестирования",
+        "url": "https://hh.ru/vacancy/117260335",
+        "salary_from": 500000,
+        "salary_to": null,
+        "description": "Опыт работы в управлении командой тестирования. - Глубокие знания методов тестирования (функциональное, регрессионное, нагрузочное, юзабилити и др.). - Опыт написания и выполнения..."
+    },
+    {
+        "title": "Руководитель проектов",
+        "url": "https://hh.ru/vacancy/117077022",
+        "salary_from": 450000,
+        "salary_to": null,
+        "description": "опыт постановки задач аналитикам и <highlighttext>разработчикам</highlighttext>. -практический опыт написания и проверки отчетной документации. -знание нотаций моделирования бизнес-процессов (UML, BPMN..."
+    },
+    {
+        "title": "HTML-верстальщик",
+        "url": "https://hh.ru/vacancy/117287772",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "description": "Умение работать в команде и взаимодействовать с дизайнерами, <highlighttext>разработчиками</highlighttext> и менеджерами. Внимательность к деталям, аккуратность в коде. Ответственность и умение..."
+    },
+    {
+        "title": "Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/115997564",
+        "salary_from": 50000,
+        "salary_to": 220000,
+        "description": "Уметь верстать под любые устройства. Уметь работать как с REST так и WebSocket и GraphQL. Понимать чем хороший код отличается..."
+    },
+    {
+        "title": "Специалист технической поддержки (JavaScript junior)",
+        "url": "https://hh.ru/vacancy/117284302",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знания JavaScript (ES5/ES6), HTML и CSS. Опыт в программировании (включая обучение и стажировки). Обязательно: опыт работы с..."
+    },
+    {
+        "title": "Frontend developer (React) в команду Витрина.Контент.Объявления",
+        "url": "https://hh.ru/vacancy/115926644",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "JavaScript/TypeScript. SCSS. React, Redux + Saga/Thunk, React Router. Jest + React Testing Library. NodeJS + Express. ESLint. "
+    },
+    {
+        "title": "Стажер/frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117200451",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Практический опыт работы с Frontend (Vanilla JS, VueJS 3, Nuxt). Начальные знания JS (или другого языка программирования). Понимание алгоритмов и..."
+    },
+    {
+        "title": "Ведущий бизнес-аналитик",
+        "url": "https://hh.ru/vacancy/117232770",
+        "salary_from": 7000,
+        "salary_to": null,
+        "description": "Hard Skills: - Опыт работы бизнес-аналитиком в государственных проектах. - Глубокое понимание методологии BABOK и опыт создания ее артефактов (не менее..."
+    },
+    {
+        "title": "QA engineer",
+        "url": "https://hh.ru/vacancy/111351970",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт тестирования RestApi сервисов (Swagger, Postman). Опыт тестирования веб-приложений (консоль <highlighttext>разработчика</highlighttext>). Опыт работы с метриками и логами (Grafana, Kibana). "
+    },
+    {
+        "title": "Младший разработчик C#",
+        "url": "https://hh.ru/vacancy/117107745",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Образование высшее или среднее в сфере IT (компьютерные науки, программная инженерия, информатика или смежные дисциплины). Базовые знания С# и NET.Framework..."
+    },
+    {
+        "title": "Junior frontend разработчик",
+        "url": "https://hh.ru/vacancy/117161244",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "уверенное знание HTML5 + CSS3 + JS (адаптивная, кроссбраузерная вёрстка). - умение работать с системой контроля версий git. - "
+    },
+    {
+        "title": "Руководитель Отдела обучения",
+        "url": "https://hh.ru/vacancy/117165974",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Наличие опыта преподавания по ИБ/ИТ продуктам (более 3х лет). Наличие опыта построения учебных центров. Умение понятно доносить информацию..."
+    },
+    {
+        "title": "HTML-верстальщик / Frontend-разработчик",
+        "url": "https://hh.ru/vacancy/117171896",
+        "salary_from": 90000,
+        "salary_to": 100000,
+        "description": "Опыт работы на аналогичной должности от 1 года. Знание операционных HTML, CSS, JavaScript и др. Готовность находится в режиме многозадачности. "
+    },
+    {
+        "title": "Middle React Developer",
+        "url": "https://hh.ru/vacancy/117086283",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы на коммерческих проектах в качестве Front-end <highlighttext>разработчика</highlighttext>. Опыт написания unit и e2e тестов(Jest и..."
+    },
+    {
+        "title": "Руководитель контент-отдела",
+        "url": "https://hh.ru/vacancy/117223915",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "description": "Преимущества работы в Лайфмебель: Опыт работа руководителем отдела контента. Чувство стиля и желание все сделать красиво. Открытость и улыбчивость, честность..."
+    },
+    {
+        "title": "Тестировщик ПО/QA",
+        "url": "https://hh.ru/vacancy/117253650",
+        "salary_from": 80000,
+        "salary_to": null,
+        "description": "Знание принципов ручного тестирования. Знания по работе с консолью <highlighttext>разработчика</highlighttext> в браузере. Знания SQL, python. Опыт тестирования веб и/или..."
+    },
+    {
+        "title": "Разработчик Python",
+        "url": "https://hh.ru/vacancy/117120298",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт в области IT в разработки мобильного приложения (желательно от 3 лет). Умение использовать фреймвор Django или Flask. "
+    },
+    {
+        "title": "Тестировщик",
+        "url": "https://hh.ru/vacancy/117249333",
+        "salary_from": 60000,
+        "salary_to": 100000,
+        "description": "Знание техник тест-дизайна. Умение технически грамотно описать возникшую ошибку <highlighttext>разработчику</highlighttext>. Развитые коммуникативные навыки, грамотная устная и письменная речь. "
+    },
+    {
+        "title": "Frontend-разработчик в команду Облака",
+        "url": "https://hh.ru/vacancy/117187276",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Качественный, поддерживаемый код. Непреодолимое желание сделать удобно, логично. Отличное знание JavaScript, HTML, CSS. Знание связки React, Redux Toolkit, Thunk."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/117232487",
+        "salary_from": 2000,
+        "salary_to": null,
+        "description": "Уверенное владение стэком Frontend + Backend (JavaScript/TypeScript + Python). Опыт работы с GitHub/GitLab и CI/CD-инструментами. "
+    },
+    {
+        "title": "Бухгалтер",
+        "url": "https://hh.ru/vacancy/117031246",
+        "salary_from": null,
+        "salary_to": 224000,
+        "description": "Необходимый опыт и знания: - Знание ВЭД. - Образование высшее (бух учет/финансовое/экономическое). - Аналогичный опыт работы от 4 лет. - "
+    },
+    {
+        "title": "Тестировщик ПО",
+        "url": "https://hh.ru/vacancy/117139640",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Ведение базы знаний в части QA и тестирования (формализация опыта)."
+    },
+    {
+        "title": "React/JS-разработчик (middle)",
+        "url": "https://hh.ru/vacancy/117214335",
+        "salary_from": 220000,
+        "salary_to": null,
+        "description": "Отлично знаешь JavaScript, TypeScript и React. Хорошо верстаешь. Понимаешь принципы HTTP REST и логику серверной обработки. React. Typescript. Css modules. "
+    },
+    {
+        "title": "Java-разработчик (Junior / Intern)",
+        "url": "https://hh.ru/vacancy/117076915",
+        "salary_from": null,
+        "salary_to": 60000,
+        "description": "Понимание принципов ООП, понимание алгоритмов и структур данных, знание Java Core. Обязательное знание основ Java EE (Servlets, jsp). "
+    },
+    {
+        "title": "Java-разработчик",
+        "url": "https://hh.ru/vacancy/117157567",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы с Java от 2 лет. Уверенное владение Spring Framework (Boot, Data, Security, MVC). Знание и опыт работы с..."
+    },
+    {
+        "title": "Инженер-программист (WEB-разработчик)",
+        "url": "https://hh.ru/vacancy/117223663",
+        "salary_from": 4000,
+        "salary_to": null,
+        "description": "Опыт работы по специальности с перечисленными ниже требованиями: 1. знание HTML5, CSS3 (SAAS). 2. наличие навыков верстки. 3. "
+    },
+    {
+        "title": "Middle React Developer",
+        "url": "https://hh.ru/vacancy/117086575",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы на коммерческих проектах в качестве Front-end <highlighttext>разработчика</highlighttext>. Опыт написания unit и e2e тестов(Jest и..."
+    },
+    {
+        "title": "Помощник руководителя",
+        "url": "https://hh.ru/vacancy/117122173",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Высшее образование. Уверенный пользователь ПК, грамотная речь, доброжелательность, умение общаться с людьми, ответственность, способность работать в высоком ритме, в режиме..."
+    },
+    {
+        "title": "Middle Python Developer",
+        "url": "https://hh.ru/vacancy/117243447",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы с Python3 от 2 лет. Владение Django, FastAPI, SQLAlchemy, SqlModel. Опыт работы с SQL, MongoDB, PostgreSQL, PostGIS. "
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
     }
 ]

@@ -18,7 +18,7 @@ def user_interaction():
             url=v["alternate_url"],
             salary_from=v["salary"]["from"] if v.get("salary") else None,
             salary_to=v["salary"]["to"] if v.get("salary") else None,
-            description=v["snippet"]["requirement"]
+            description=v.get("snippet", {}).get("requirement", "Описание отсутствует")
         )
         for v in raw_vacancies
     ]
@@ -27,8 +27,14 @@ def user_interaction():
     for vacancy in vacancies:
         json_saver.add_vacancy(vacancy)
 
-    # Вывод топ N вакансий
-    sorted_vacancies = sorted(vacancies, key=lambda x: x.salary_from or 0, reverse=True)
+    # Сортировка вакансий по зарплате (по убыванию)
+    sorted_vacancies = sorted(
+        vacancies,
+        key=lambda x: x.salary_from or 0,  # Если salary_from равно None, используем 0
+        reverse=True
+    )
+
+    # Вывод топ-N вакансий
     for vacancy in sorted_vacancies[:top_n]:
         print(vacancy)
 
