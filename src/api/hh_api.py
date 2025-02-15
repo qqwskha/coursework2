@@ -1,5 +1,7 @@
 import requests
+
 from .base_api import BaseAPI
+
 
 class HeadHunterAPI(BaseAPI):
     BASE_URL = "https://api.hh.ru/vacancies"
