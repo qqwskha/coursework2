@@ -1,9 +1,7 @@
 import json
 from os.path import join
 from typing import List
-
 from ..models.vacancy import Vacancy
-
 
 class JSONSaver:
     def __init__(self, filename: str = "vacancies.json"):
@@ -25,8 +23,10 @@ class JSONSaver:
             return []
 
     def delete_vacancy(self, vacancy: Vacancy):
-        """Удаление вакансии из файла."""
+        """
+        Удаление вакансии из файла по уникальному идентификатору (URL).
+        """
         vacancies = self.load_vacancies()
-        vacancies = [v for v in vacancies if v["title"] != vacancy.title]
+        vacancies = [v for v in vacancies if v["url"] != vacancy.url]
         with open(self.__filename, "w", encoding="utf-8") as file:
             json.dump(vacancies, file, ensure_ascii=False, indent=4)
