@@ -2896,5 +2896,2133 @@
         "salary_from": 0,
         "salary_to": 0,
         "description": "Коммерческий Опыт разработки не менее 2 лет. Опыт работы с Javascript, TypeScript , React, Redux."
+    },
+    {
+        "title": "Junior Developer",
+        "url": "https://hh.ru/vacancy/117327535",
+        "salary_from": 200000,
+        "salary_to": 200000,
+        "description": "Знание <highlighttext>Python</highlighttext>. Умение работать в команде. Навыки верстки (HTML, CSS). Готовность быстро учиться и выполнять черновую работу."
+    },
+    {
+        "title": "Стажер-разработчик Python",
+        "url": "https://hh.ru/vacancy/117324453",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Уровень начинающий <highlighttext>junior</highlighttext>. Базовое знание <highlighttext>Python</highlighttext> и его основных библиотек. Опыт отправки запросов ORM. Опыт создания приложений на Django (REST..."
+    },
+    {
+        "title": "Junior backend-разработчик",
+        "url": "https://hh.ru/vacancy/117347051",
+        "salary_from": 35000,
+        "salary_to": null,
+        "description": "Опыт работы с Go. Пройденный GoTour. Работа с git. Примеры проектов. Опыт создания HTTP-сервисов."
+    },
+    {
+        "title": "Junior/Middle QA Engineer",
+        "url": "https://hh.ru/vacancy/117233851",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Базовые навыки программирования на <highlighttext>python</highlighttext>. Внимательность к деталям и интерес к аналитической работе. Умение искать дефекты, понятно и емко описывать..."
+    },
+    {
+        "title": "Junior Developer (стажер)",
+        "url": "https://hh.ru/vacancy/116792570",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Базовые знания фронтенд-технологий: HTML, CSS, JavaScript.Опыт работы на одном из серверных языков: PHP, Python.Понимание основ реляционных (MySQL, PostgreSQL) баз..."
+    },
+    {
+        "title": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/116157271",
+        "salary_from": 1000,
+        "salary_to": null,
+        "description": "1+ year of hands-on experience in <highlighttext>Python</highlighttext> development. Expertise in Postgres and Django. Understanding of principles like SOLID..."
+    },
+    {
+        "title": "Data-analyst(junior)",
+        "url": "https://hh.ru/vacancy/117258467",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание основ статистики и теории вероятностей. Владение базовым функционалом и основными библиотеками <highlighttext>Python</highlighttext> pandas, matplotlib, numpy Будет плюсом умение быстро..."
+    },
+    {
+        "title": "Младший аналитик",
+        "url": "https://hh.ru/vacancy/117332279",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы с MS Excel Solver/Anaplan. Умение программировать VBA, SQL, <highlighttext>Python</highlighttext> и т.п.. Навыки самостоятельного ведения проектов (Project..."
+    },
+    {
+        "title": "Аналитик данных (Junior)",
+        "url": "https://hh.ru/vacancy/117382720",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт в аналитике данных от 6 мес. Владение SQL, <highlighttext>Python</highlighttext>, google spreadsheets, навыки OSINT. Бизнес-ориентированный подход к выполняемым задачам."
+    },
+    {
+        "title": "Младший системный администратор",
+        "url": "https://hh.ru/vacancy/117369969",
+        "salary_from": 100000,
+        "salary_to": 111000,
+        "description": "Требования: богатый жизненный опыт сисадминской работы с сетью минимум из 20 компьютеров сроком от 1 года."
+    },
+    {
+        "title": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/110412718",
+        "salary_from": 75000,
+        "salary_to": null,
+        "description": "Базовые знания <highlighttext>Python</highlighttext>. Опыт написания REST приложений на любом <highlighttext>Python</highlighttext> фреймворке (Flask, FastAPI, Django и др.). Понимание основ SQL и..."
+    },
+    {
+        "title": "Аналитик данных (Junior)",
+        "url": "https://hh.ru/vacancy/117075770",
+        "salary_from": 110000,
+        "salary_to": null,
+        "description": "<highlighttext>Python</highlighttext> (Pandas, Matplotlib, Seaborn и т.д). Умение сделать на <highlighttext>Python</highlighttext> то, что сложно или долго в sql. "
+    },
+    {
+        "title": "Junior Python Backend-разработчик",
+        "url": "https://hh.ru/vacancy/117415627",
+        "salary_from": 80000,
+        "salary_to": 110000,
+        "description": "Имеешь опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 1 года. Имеешь уверенные знания FastAPI и PostgreSQL. Имеешь опыт работы с системами..."
+    },
+    {
+        "title": "ML-инженер (Junior Data Scientist)",
+        "url": "https://hh.ru/vacancy/116604182",
+        "salary_from": 140000,
+        "salary_to": null,
+        "description": "Уверенно владеете <highlighttext>Python</highlighttext> 3. Знакомы с основами архитектуры сверточных нейронных сетей. Пользуетесь IDE, например PyCharm, VS Code, Sublime, Vim. "
+    },
+    {
+        "title": "Junior Python-разработчик",
+        "url": "https://hh.ru/vacancy/116814674",
+        "salary_from": 130000,
+        "salary_to": 140000,
+        "description": "...с облачными платформами (AWS, Azure, DigitalOcean и др.) приветствуется. Знания <highlighttext>Python</highlighttext> на базовом уровне и стремление развиваться как <highlighttext>Python</highlighttext>-разработчик."
+    },
+    {
+        "title": "Младший тестировщик / Junior QA",
+        "url": "https://hh.ru/vacancy/117375824",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Желание развиваться в автоматизации тестирования на <highlighttext>Python</highlighttext> (Pytest, Selenium). Понимание работы сгенерированного клиента OpenAPI. Понимание паттерна Page Object Model. "
+    },
+    {
+        "title": "Программист Python (Junior)",
+        "url": "https://hh.ru/vacancy/116583839",
+        "salary_from": 89000,
+        "salary_to": null,
+        "description": "Знание <highlighttext>Python</highlighttext> и SQL на базовом уровне. Опыт работы с фреймворками (Flask, FastAPI). Понимание принципов работы с Docker, Docker-compose. "
+    },
+    {
+        "title": "Junior Data Scientist \\ Аналитик",
+        "url": "https://hh.ru/vacancy/117152095",
+        "salary_from": 50000,
+        "salary_to": 60000,
+        "description": "Для этого нужно: Знание SQL и опыт работы с СУБД: PostgreSQL, MariaDB, ClickHouse. Знание <highlighttext>Python</highlighttext> 3. Опыт работы с библиотекой..."
+    },
+    {
+        "title": "Junior Software engineer",
+        "url": "https://hh.ru/vacancy/117153148",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знания и навыки работы с SQL/Pl SQL. Знания и навыки работы с генераторами отчетов. Понимание JSON, XML. Знание <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Аналитик SQL",
+        "url": "https://hh.ru/vacancy/117191124",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высокий уровень владения Excel (макросы). Базовые навыки SQL. Практические навыки работы с <highlighttext>Python</highlighttext> как преимущество."
+    },
+    {
+        "title": "Junior Python разработчик",
+        "url": "https://hh.ru/vacancy/117308260",
+        "salary_from": null,
+        "salary_to": 80000,
+        "description": "Умение работать по Scrum, работа в таск-трекере. Навыки написания тестов. <highlighttext>Python</highlighttext> 3.11. Asyncio. FastApi (Pydantic v2). FastStream. "
+    },
+    {
+        "title": "Junior Data Analyst",
+        "url": "https://hh.ru/vacancy/117414172",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "...вопросы к данным. Будет плюсом знание основ <highlighttext>Python</highlighttext> и понимание ETL-процессов. ClickHouse + Greenplum. <highlighttext>Python</highlighttext> 3.7. GitLab. SQL."
+    },
+    {
+        "title": "Младший аналитик",
+        "url": "https://hh.ru/vacancy/117157813",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее образование или проходишь последние курсы обучения (предпочтительно: математика, статистика, информатика). Готовность работать полный день в офисе 5/2 (для..."
+    },
+    {
+        "title": "DevOps (Junior)",
+        "url": "https://hh.ru/vacancy/117332619",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание одного или нескольких языков программирования (желательно С/С++/<highlighttext>Python</highlighttext> – работаем с ними). Знание Docker, Docker compose. Знание ОС Linux..."
+    },
+    {
+        "title": "Junior Data Scientist/MLE",
+        "url": "https://hh.ru/vacancy/114020524",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Хороший уровень владения основными библиотеками <highlighttext>Python</highlighttext> для машинного обучения и анализа данных. Понимание основ статистического анализа данных (среднее, дисперсия, гипотезы). "
+    },
+    {
+        "title": "Junior Frontend-developer",
+        "url": "https://hh.ru/vacancy/117250781",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": "Используемые технологии: Обязательно: Знания HTML5 и SCSS, навыки кроссбраузерной адаптивной вёрстки. Опыт работы с jQuery. Опыт работы с PHP..."
+    },
+    {
+        "title": "Junior Backend Developer (Python, FastAPI, PostgreSQL)",
+        "url": "https://hh.ru/vacancy/116715086",
+        "salary_from": 50000,
+        "salary_to": 100000,
+        "description": "Опыт работы с <highlighttext>Python</highlighttext> (может быть коммерческий или pet-проекты, но важен реальный код). Понимание работы с FastAPI или другими..."
+    },
+    {
+        "title": "Junior Python-разработчик (стажёр)",
+        "url": "https://hh.ru/vacancy/116530043",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Пройденны курсы или делали сами проекты на <highlighttext>Python</highlighttext> или профильное образование. Базовое знание <highlighttext>python</highlighttext>. Желание развиваться в сфере backend-разработки. "
+    },
+    {
+        "title": "Стажер Data scientist",
+        "url": "https://hh.ru/vacancy/115928521",
+        "salary_from": null,
+        "salary_to": 80000,
+        "description": "Уметь работать с Git, Docker. Писать чистый код на <highlighttext>Python</highlighttext> и SQL. Уметь работать с классическими библиотеками для анализа данных..."
+    },
+    {
+        "title": "Стажёр QA",
+        "url": "https://hh.ru/vacancy/116164891",
+        "salary_from": 30000,
+        "salary_to": 60000,
+        "description": "Освоить базовые принципы автоматизированного тестирования. Закончил ВУЗ и готов работать полный день с 9:00/10:00 (важно!)."
+    },
+    {
+        "title": "Python-разработчик (Junior/Middle)",
+        "url": "https://hh.ru/vacancy/117236141",
+        "salary_from": 1500,
+        "salary_to": 3100,
+        "description": "Использует LLM и RAG. 1+ год опыта в <highlighttext>Python</highlighttext>. Увлечение передовыми технологиями, опыт применения GPT для анализа данных с..."
+    },
+    {
+        "title": "Разработчик-аналитик SQL (Junior)",
+        "url": "https://hh.ru/vacancy/117404231",
+        "salary_from": null,
+        "salary_to": 120000,
+        "description": "Опыт создания ETL процессов в хранилище DWH на базе SSIS и PowerShell. Преимуществом будет знание языка программирования <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Junior Python программист (разработчик автотестов)",
+        "url": "https://hh.ru/vacancy/117441682",
+        "salary_from": null,
+        "salary_to": 120000,
+        "description": "Язык <highlighttext>python</highlighttext>. Основы программирования, принципы ООП. Типы API. Linux (на уровне пользователя). Понимание принципов работы с: Работа с git. "
+    },
+    {
+        "title": "Junior Golang Developer",
+        "url": "https://hh.ru/vacancy/117034842",
+        "salary_from": 75000,
+        "salary_to": 90000,
+        "description": "Опыт работы с CI/CD. Опыт с другими языками программирования, такими как <highlighttext>Python</highlighttext>, Java, C++ и т. д., будет преимуществом. "
+    },
+    {
+        "title": "Junior Data Analyst",
+        "url": "https://hh.ru/vacancy/117245965",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Что будет плюсом. - Знание SQL и PL/SQL. - Знание R или <highlighttext>Python</highlighttext>, пакетов статистического анализа. - Знание теории вероятности и математической..."
+    },
+    {
+        "title": "Бизнес-аналитик",
+        "url": "https://hh.ru/vacancy/117014207",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Проявляете работоспособность и целеустремленность, умеете доводить дела до конца. Знание SQL и <highlighttext>Python</highlighttext> будет плюсом. Знание основ машинного обучения будет..."
+    },
+    {
+        "title": "Junior Python Backend Developer",
+        "url": "https://hh.ru/vacancy/109066452",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт разработки с использованием языка <highlighttext>Python</highlighttext>3: стандартные библиотеки, pytest. Уверенное знание командной строки и особенностей разработки под Linux. "
+    },
+    {
+        "title": "Младший инженер по тестированию ПО",
+        "url": "https://hh.ru/vacancy/117152877",
+        "salary_from": null,
+        "salary_to": 90000,
+        "description": "Желателен опыт разработки/тестирования ПО для ОС Linux. Знание любого Linux на уровне продвинутого пользователя: ALT Linux, CentOS, RedHat, Debian..."
+    },
+    {
+        "title": "Аналитик Power BI (strong junior)",
+        "url": "https://hh.ru/vacancy/117437733",
+        "salary_from": 450000,
+        "salary_to": 600000,
+        "description": "Умение анализировать и структурировать большие объемы данных. Высокие коммуникативные способности. Знание языка запросов SQL. Знание Power BI. Знание <highlighttext>Python</highlighttext> либо..."
+    },
+    {
+        "title": "Junior Python Backend Developer",
+        "url": "https://hh.ru/vacancy/117150601",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "description": "Не менее 3-ех месяцев коммерческого опыта разработки. Уверенное знание фрйемворка Django REST Framework / FastAPI. Написание автотестов с использованием Pytest. "
+    },
+    {
+        "title": "Junior python (django) разработчик",
+        "url": "https://hh.ru/vacancy/116902709",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Желание развиваться. Умение писать чистый поддерживаемый код. Умение читать чужой код. Будет плюсом:"
+    },
+    {
+        "title": "Junior IT специалист | Системный аналитик",
+        "url": "https://hh.ru/vacancy/115987041",
+        "salary_from": 110000,
+        "salary_to": 150000,
+        "description": "Высшее образование (желательно техническое или математическое). Плюсом будет знание языков программирования (например, SQL, <highlighttext>Python</highlighttext>). Понимание принципов работы реляционных баз данных. "
+    },
+    {
+        "title": "Junior Blockchain Developer",
+        "url": "https://hh.ru/vacancy/116720212",
+        "salary_from": 250000,
+        "salary_to": null,
+        "description": "Cтэк: <highlighttext>python</highlighttext> / typescript / solidity / redis / PostgreSQL / mogo db / hardhat / fatsapi / asyncio / hardhat. Понимание технологических рисков DeFi, желателен опыт аудита и..."
+    },
+    {
+        "title": "Frontend-разработчик Junior/Middle (Удаленно)",
+        "url": "https://hh.ru/vacancy/116357873",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "description": "Базовые знания JavaScript и React. Pixel-perfect и адаптивная верстка. Умение работать в команде. Желание учиться и расти вместе с..."
+    },
+    {
+        "title": "Junior IT специалист | Системный аналитик",
+        "url": "https://hh.ru/vacancy/115987042",
+        "salary_from": 110000,
+        "salary_to": 150000,
+        "description": "Высшее образование (желательно техническое или математическое). Плюсом будет знание языков программирования (например, SQL, <highlighttext>Python</highlighttext>). Понимание принципов работы реляционных баз данных. "
+    },
+    {
+        "title": "Младший бизнес-аналитик (владелец продукта / продакт менеджер)",
+        "url": "https://hh.ru/vacancy/117287570",
+        "salary_from": 75000,
+        "salary_to": 100000,
+        "description": "Опыт общения с заказчиками, структурирования задач заказчиков / сбора требований. Опыт управления проектами. Опыт проведения CusDev. Навыки программирования на <highlighttext>Python</highlighttext> / SQL."
+    },
+    {
+        "title": "Junior Java Developer",
+        "url": "https://hh.ru/vacancy/116857899",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "description": "Знакомство с Hadoop и технологиями обработки больших данных. Опыт работы с Docker. Навыки работы с bash и <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Python developer (Junior+)",
+        "url": "https://hh.ru/vacancy/116464254",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 1 года. Уверенные знания Flask\\FastAPI. Навыки работы с SQLAlchemy, Peewee и PostgreSQL. "
+    },
+    {
+        "title": "Аналитик | Junior Аnalyst",
+        "url": "https://hh.ru/vacancy/117144774",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание основ финансового рынка / рынка ценных бумаг. Свободное владение MS Excel. Знание SQL, <highlighttext>Python</highlighttext> - будет преимуществом. Опыт аналитической работы, а..."
+    },
+    {
+        "title": "Аналитик (junior)",
+        "url": "https://hh.ru/vacancy/117289615",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт работы с базами данных (особенно PostgreSQL) и <highlighttext>Python</highlighttext> – это плюс. Знание других языков программирования будет являться плюсом. "
+    },
+    {
+        "title": "Младший трейдер",
+        "url": "https://hh.ru/vacancy/116527532",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Дисциплина, ответственность, внимательность к деталям, вовлеченность, инициативность, желание учиться и развиваться в сфере инвестиций. Навыки программирования <highlighttext>Python</highlighttext>. Знание MS Excel..."
+    },
+    {
+        "title": "Junior Python Developer (Scripts)",
+        "url": "https://hh.ru/vacancy/116473232",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Ability to troubleshoot and debug issues in <highlighttext>Python</highlighttext> code, ensuring scripts are error-free and efficient. Fluent English (B2..."
+    },
+    {
+        "title": "Младший аналитик данных",
+        "url": "https://hh.ru/vacancy/117217369",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "...информации в сжатые сроки. Владение <highlighttext>Python</highlighttext> для обработки массивов данных, умение построение аналитических моделей на <highlighttext>Python</highlighttext>. Визуализация данных с помощью..."
+    },
+    {
+        "title": "Junior ML-разработчик",
+        "url": "https://hh.ru/vacancy/117351485",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Умение писать продакшн-реди код. Владение основными библиотеками на <highlighttext>Python</highlighttext> (pandas, numpy, matplotlib, seaborn, etc.). Умение применить классические алгоритмы машинного..."
+    },
+    {
+        "title": "Junior Data Engineer",
+        "url": "https://hh.ru/vacancy/116566430",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "description": "1+ years of relevant experience in data engineering. Strong <highlighttext>Python</highlighttext> skills with experience in data-focused libraries (Pandas, NumPy..."
+    },
+    {
+        "title": "Junior/middle DevOps engineer",
+        "url": "https://hh.ru/vacancy/116423006",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Понимание принципов работы CI/CD. Знание одного из языков программирования (<highlighttext>Python</highlighttext>, Bash, Go и др.) будет плюсом. Умение работать в..."
+    },
+    {
+        "title": "QA инженер (ручное тестирование) junior",
+        "url": "https://hh.ru/vacancy/116090683",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Умение работать с DevTools. Навыки работы с Postman. Знание языка программирования <highlighttext>Python</highlighttext> и фреймворков для UI-тестирования (Playwright, Selenium и..."
+    },
+    {
+        "title": "Junior Data Scientist",
+        "url": "https://hh.ru/vacancy/114195603",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее образование (желательно: в области математики, физики, computer science или смежных областях). Уверенное владение <highlighttext>Python</highlighttext> и его основными библиотеками для..."
+    },
+    {
+        "title": "Младший научный сотрудник (программист-разработчик)",
+        "url": "https://hh.ru/vacancy/117376548",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Разработка алгоритмов. Знание одного или нескольких языков программирования (желательно С/С++/<highlighttext>Python</highlighttext>). Понимание REST API. Уверенная работа с git."
+    },
+    {
+        "title": "Junior Data Analyst",
+        "url": "https://hh.ru/vacancy/117449999",
+        "salary_from": 1500,
+        "salary_to": 2000,
+        "description": "SQL knowledge – ability to write queries, perform joins, aggregations, and optimize performance. Basic <highlighttext>Python</highlighttext> skills – experience with Pandas, NumPy, and..."
+    },
+    {
+        "title": "Junior Python разработчик Службы планирования",
+        "url": "https://hh.ru/vacancy/117284077",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Уверенное знание языка программирования <highlighttext>Python</highlighttext>. Опыт работы с проектами, написанными на <highlighttext>Python</highlighttext>3, от года (бэкенд/аналитика). Уверенное использование систем..."
+    },
+    {
+        "title": "Разработчик Junior C++",
+        "url": "https://hh.ru/vacancy/117143009",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Разработки: С++, STL, CMake. Понимание основ линейной алгебры. Знание алгоритмов локализации, фильтры Калмана. Опыт работы с системой контроля версий git. "
+    },
+    {
+        "title": "Junior QA Engineer (Ижевск)",
+        "url": "https://hh.ru/vacancy/117185593",
+        "salary_from": 46000,
+        "salary_to": 50000,
+        "description": "Знания основ ООП, простейшие алгоритмы. Базовые знания Java или <highlighttext>Python</highlighttext> необходимы. Знакомство с БД MS SQL или Oracle. Высшее образование. ("
+    },
+    {
+        "title": "Программист Python (Junior)",
+        "url": "https://hh.ru/vacancy/117016758",
+        "salary_from": 60000,
+        "salary_to": 80000,
+        "description": "Знание <highlighttext>Python</highlighttext>, понимание ООП. Знание основных шаблонов проектирования, алгоритмов и структур данных. Знание SQL и практический опыт работы с реляционными..."
+    },
+    {
+        "title": "Junior Golang Developer",
+        "url": "https://hh.ru/vacancy/116774514",
+        "salary_from": 75000,
+        "salary_to": null,
+        "description": "Опыт работы с CI/CD. Опыт с другими языками программирования, такими как <highlighttext>Python</highlighttext>, Java, C++ и т. д., будет преимуществом. "
+    },
+    {
+        "title": "Data Engineer (Junior)",
+        "url": "https://hh.ru/vacancy/117205394",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Опыт системного анализа данных для дальнейшего использования в аналитике. Хорошие знания Spark/PySpark, <highlighttext>Python</highlighttext>. Опыт работы c BI системами (Tableau..."
+    },
+    {
+        "title": "Python Backend Developer",
+        "url": "https://hh.ru/vacancy/117102516",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Базовые знания <highlighttext>Python</highlighttext> и опыт работы с фреймворками, например, Django или Flask. Опыт парсинга данных. Представление о том, как работают..."
+    },
+    {
+        "title": "Junior BI-аналитик",
+        "url": "https://hh.ru/vacancy/116722173",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Человека, владеющего SQL на уровне агрегаций и оконных функций. Базовые знания <highlighttext>Python</highlighttext> – если умеете писать простые скрипты, будет плюсом. "
+    },
+    {
+        "title": "Junior AQA",
+        "url": "https://hh.ru/vacancy/117429959",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Дополнительные навыки: Знание инструментов тестирования автоматизации (Selenium, PyTest). Знание <highlighttext>Python</highlighttext>. Знание JavaScript. Опыт тестирования смарт-контрактов. Опыт работы с UX..."
+    },
+    {
+        "title": "Trainee/Intern/Junior Python backend developer",
+        "url": "https://hh.ru/vacancy/117412008",
+        "salary_from": 20000,
+        "salary_to": 40000,
+        "description": "Для этого мы ищем начинающего, сообразительного, шустрого, амбициозного интерна-джуна питониста. Опыт в коммерческой разработке не требуется – важнее навык быстро..."
+    },
+    {
+        "title": "Python-разработчик (junior|middle)",
+        "url": "https://hh.ru/vacancy/116913216",
+        "salary_from": 60000,
+        "salary_to": 150000,
+        "description": "Уверенное знание языка программирования <highlighttext>Python</highlighttext> и его стандартной библиотеки. Опыт разработки на фреймворке Django/FastAPI от 1 года. "
+    },
+    {
+        "title": "Junior Data Scientist",
+        "url": "https://hh.ru/vacancy/115999994",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "статистическими пакетами (SPSS, STATISTICA и т.п.). Опыт применения R и <highlighttext>Python</highlighttext> для углубленной аналитики и машинного обучения. "
+    },
+    {
+        "title": "Системный аналитик junior",
+        "url": "https://hh.ru/vacancy/117387273",
+        "salary_from": 60000,
+        "salary_to": null,
+        "description": "Умение работать в команде и эффективно коммуницировать. Базовые знания <highlighttext>Python</highlighttext>. Опыт работы с нереляционными базами данных (MongoDB). Увлечен IT-продуктами..."
+    },
+    {
+        "title": "Junior Product Analyst",
+        "url": "https://hh.ru/vacancy/110861130",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Базовые знания SQL и (или) опыт анализа данных на <highlighttext>Python</highlighttext>. Знание основ математической статистики и математического аппарата анализа данных. "
+    },
+    {
+        "title": "Разработчик С++ (junior)",
+        "url": "https://hh.ru/vacancy/117181784",
+        "salary_from": 130000,
+        "salary_to": null,
+        "description": "Знакомство с фреймворком Qt и библиотекой Boost.Asio. Знание других языков, таких как <highlighttext>Python</highlighttext>, Go, JavaScript. Есть какой то опыт разработки..."
+    },
+    {
+        "title": "Junior-Middle Backend Developer",
+        "url": "https://hh.ru/vacancy/116207008",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Уверенное понимание работы с Git. Понимание принципов работы Prisma ORM, PostgreSQL, RESTful API. Опыт работы PostgreSQL, Redis, RabbitMQ. Разработка микросервисов. "
+    },
+    {
+        "title": "Junior QA engineer/Младший инженер по ручному тестированию (TATLIN.UNIFIED)",
+        "url": "https://hh.ru/vacancy/117140922",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Желание учиться, развиваться и повышать квалификацию. Будет плюсом: Опыт работы с Jirа и Confluence. Навыки автоматизации на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Junior QA engineer/Младший инженер по ручному тестированию (TATLIN.UNIFIED)",
+        "url": "https://hh.ru/vacancy/117140923",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Желание учиться, развиваться и повышать квалификацию. Будет плюсом: Опыт работы с Jirа и Confluence. Навыки автоматизации на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Системный аналитик (Junior)",
+        "url": "https://hh.ru/vacancy/117144935",
+        "salary_from": 100000,
+        "salary_to": null,
+        "description": "Programming lang: PHP Lavarel, Java, Flutter, 1C, Low-code ESB Talend, <highlighttext>Python</highlighttext>, C#. Databases: PostgreSQL, Oracle. Integrations: REST, SOAP..."
+    },
+    {
+        "title": "Junior QA",
+        "url": "https://hh.ru/vacancy/116812920",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание основ автоматизации тестирования (Selenium, Playwright, Pytest и т.д.). Начальные знания хотя бы одного языка программирования (например, <highlighttext>Python</highlighttext> или..."
+    },
+    {
+        "title": "Fullstack-разработчик (Strong junior/Middle)",
+        "url": "https://hh.ru/vacancy/117333141",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "description": "1) 2+ года разработки. 2) Опыт в веб-разработке. 3) Понимание что такое апи и как с ним взаимодействовать. "
+    },
+    {
+        "title": "Computer Vision Engineer (Junior/Junior+)",
+        "url": "https://hh.ru/vacancy/117112545",
+        "salary_from": 115000,
+        "salary_to": 200000,
+        "description": "От 1 года опыта работы в CV. Знание классического ML. Знакомство с основными нейросетевыми архитектурами в CV (Resnet/Mobilenet, SSD..."
+    },
+    {
+        "title": "Junior Data Engineer",
+        "url": "https://hh.ru/vacancy/116566429",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "description": "1+ years of relevant experience in data engineering. Strong <highlighttext>Python</highlighttext> skills with experience in data-focused libraries (Pandas, NumPy..."
+    },
+    {
+        "title": "Разработчик банковского ПО (junior)",
+        "url": "https://hh.ru/vacancy/106172637",
+        "salary_from": 132000,
+        "salary_to": null,
+        "description": "Владение одним или несколькими языками программирования (Java, C#, <highlighttext>Python</highlighttext>, C++ и т.п.). Уверенное владение ООП. Знакомство с шаблонами проектирования. "
+    },
+    {
+        "title": "Junior QA specialist",
+        "url": "https://hh.ru/vacancy/117139862",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Желание развиваться в автотестирование. Интерес и желание развиваться в fintech. Знание скриптовых языков (Bash, <highlighttext>Python</highlighttext>). Базовое знание JS."
+    },
+    {
+        "title": "Data Analyst (Junior)",
+        "url": "https://hh.ru/vacancy/117028021",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Умеете подкреплять статистическую информацию аналитическими выводами. Умеете визуализировать данные с помощью любой <highlighttext>python</highlighttext>-библиотеки. Способны аргументированно отстаивать свою точку зрения..."
+    },
+    {
+        "title": "Manual QA specialist / Ручной тестировщик",
+        "url": "https://hh.ru/vacancy/116507804",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "...опыт тестирования API. Будет плюсом: Техническое образование. Интерес и желание развиваться в fintech. Знание скриптовых языков (Bash, <highlighttext>Python</highlighttext>). Знание JS."
+    },
+    {
+        "title": "Python разработчик (офис)",
+        "url": "https://hh.ru/vacancy/117441523",
+        "salary_from": 80000,
+        "salary_to": 90000,
+        "description": "Нужен “свежий” опыт разработки на <highlighttext>Python</highlighttext> от 1 года. Условный уровень \"продвинутый <highlighttext>junior</highlighttext>\". В сопроводительном письме написать кодовое слово: \"ЭЛМА\". "
+    },
+    {
+        "title": "Intern/Junior Data Scientist",
+        "url": "https://hh.ru/vacancy/115952716",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Проектный опыт работы с временными рядами или задачами регрессии от 1 года/учебный опыт. ​​владение <highlighttext>Python</highlighttext> и SQL. "
+    },
+    {
+        "title": "Специалист по валидации моделей (Junior Data Scientist) Управления модельных рисков и валидации",
+        "url": "https://hh.ru/vacancy/117195300",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание статистики и методов математического моделирования. Владение специализированными средствами обработки и анализа данных (<highlighttext>Python</highlighttext>, SQL). Понимание основ экономики и финансов."
+    },
+    {
+        "title": "Младший инженер-программист (стажер)",
+        "url": "https://hh.ru/vacancy/116786860",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Умение писать скрипты на bash, <highlighttext>python</highlighttext> (bash и командная строка-хороший уровень владения, <highlighttext>python</highlighttext> можно базовые знания и желание обучаться). "
+    },
+    {
+        "title": "Инженер DevOps (Junior)",
+        "url": "https://hh.ru/vacancy/116460561",
+        "salary_from": 80000,
+        "salary_to": 100000,
+        "description": "Опыт работы с серверным оборудованием. Опыт написания скриптов (Bash, <highlighttext>Python</highlighttext>, PowerShell). Знание английского языка на уровне чтения технической документации и..."
+    },
+    {
+        "title": "Junior DevOps Engineer",
+        "url": "https://hh.ru/vacancy/117249530",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Git, GitLab, Linux (Ubuntu/Debian), Docker, Ansible, <highlighttext>Python</highlighttext>/Node.js, HashiCorp, Grafana, Prometheus, Envoy, Postman/Insomnia, Jira. Required Qualifications: - Possesses basic..."
+    },
+    {
+        "title": "DBA (Junior)",
+        "url": "https://hh.ru/vacancy/117245909",
+        "salary_from": 98000,
+        "salary_to": null,
+        "description": "...системой контроля версий Git. Опыт работы с Docker, написание скриптов на Bash. Базовые знания одного из языков программирования (желательно <highlighttext>Python</highlighttext>)."
+    },
+    {
+        "title": "Junior Pricing Analyst",
+        "url": "https://hh.ru/vacancy/116905622",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Для этого тебе понадобится: 1 год опыта работы в качестве <highlighttext>младшего</highlighttext> бизнес-аналитика. Уверенные знания и опыт работы с SQL. "
+    },
+    {
+        "title": "Автоматизатор тестирования/AQA Junior/Middle",
+        "url": "https://hh.ru/vacancy/116580427",
+        "salary_from": 30000,
+        "salary_to": 200000,
+        "description": "Знание <highlighttext>Python</highlighttext> + pytest, git. Умение писать тесты, фикстуры, библиотеки. Опыт разработки API тестов. Опыт работы с Playwright или Selenium. "
+    },
+    {
+        "title": "Junior аналитик данных (управленческая отчетность)",
+        "url": "https://hh.ru/vacancy/116721105",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Знание SQL и умение применять его для работы с Базами Данных. Навыки создания презентационных материалов. Готовность обучаться, расти, участвовать в..."
+    },
+    {
+        "title": "Стажер-программист Rust в блокчейн-стартап",
+        "url": "https://hh.ru/vacancy/116335212",
+        "salary_from": 800,
+        "salary_to": 800,
+        "description": "Образование в области программирования, не <highlighttext>младше</highlighttext> 3го курса. Базовое знание одного из языков (<highlighttext>Python</highlighttext>, C++, JS). Знание английского языка..."
+    },
+    {
+        "title": "Junior Data Analyst",
+        "url": "https://hh.ru/vacancy/116451853",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Готовность работать в условиях дедлайнов и быстро обучаться. Высшее техническое образование, отличные знания мат.статистики. Опыт работы с <highlighttext>Python</highlighttext>."
+    },
+    {
+        "title": "Младший аналитик",
+        "url": "https://hh.ru/vacancy/116843422",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Базовое знание SQL, развитые математические способности, аналитический склад ума. Знание <highlighttext>Python</highlighttext> и методов машинного обучения (предиктивная аналитика, задачи классификации и..."
+    },
+    {
+        "title": "Супервайзер по сероводороду на Карачаганакское месторождение",
+        "url": "https://hh.ru/vacancy/117207622",
+        "salary_from": 800000,
+        "salary_to": null,
+        "description": "Опыт работы от 1 года. Знание языков: Казахский и Русский на свободном уровне. Знание технических терминов и спецификаций оборудований: Газовая..."
+    },
+    {
+        "title": "Охранник",
+        "url": "https://hh.ru/vacancy/117501321",
+        "salary_from": 150000,
+        "salary_to": null,
+        "description": "Наличие УЧО."
+    },
+    {
+        "title": "Администратор на Карабатан",
+        "url": "https://hh.ru/vacancy/116703205",
+        "salary_from": 400000,
+        "salary_to": 450000,
+        "description": "Высшее/средне-специальное. Грамотная письменная и устная речь. Высокая работоспособность, стрессоустойчивость. Знание английского языка."
+    },
+    {
+        "title": "Водитель категории В",
+        "url": "https://hh.ru/vacancy/117502636",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "description": "Опыт работы на нефтегазовых месторождениях ЯНАО и ХМАО будет преимуществом. Опыт работы водителем от 3-х лет (подтверждение по трудовой..."
+    },
+    {
+        "title": "Водитель-механик",
+        "url": "https://hh.ru/vacancy/117472597",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Категория прав B, C, D, D1."
+    },
+    {
+        "title": "Персональный водитель руководителя",
+        "url": "https://hh.ru/vacancy/117495565",
+        "salary_from": 150000,
+        "salary_to": 150000,
+        "description": "Опыт работы ."
+    },
+    {
+        "title": "Мастер по глубокой клизме для криптоинвестора",
+        "url": "https://hh.ru/vacancy/117359771",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "description": "P.S. Комики и стендаперы, проходите мимо. Мы не хотим слышать истории об анусах. Ярко выраженная любовь к крипте. "
+    },
+    {
+        "title": "Электромонтер контактной сети",
+        "url": "https://hh.ru/vacancy/117176316",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "description": "Знать способы соединения и оконцевания токопроводящих жил кабеля различных конструкций и видов изоляции. Иметь аттестацию на группу 5 по электробезопасности..."
+    },
+    {
+        "title": "Упаковщик одежды Adidas",
+        "url": "https://hh.ru/vacancy/117007751",
+        "salary_from": 410000,
+        "salary_to": 480000,
+        "description": "Опыт не важен- ОБУЧАЕМ."
+    },
+    {
+        "title": "Супервайзер ОЗТОС",
+        "url": "https://hh.ru/vacancy/117453993",
+        "salary_from": null,
+        "salary_to": 806567,
+        "description": "Предпочтительно знание английского языка."
+    },
+    {
+        "title": "Проходчик",
+        "url": "https://hh.ru/vacancy/115845137",
+        "salary_from": 1050000,
+        "salary_to": 1050000,
+        "description": "Опыт работы в ручной проходке от 2 лет (На добыче золота и прочих руд). Обязательно наличие удостоверения \"Проходчик 4, 5..."
+    },
+    {
+        "title": "Стюард \\ стюардесса морского круизного флота",
+        "url": "https://hh.ru/vacancy/117314196",
+        "salary_from": 1200,
+        "salary_to": 2700,
+        "description": "Опыт работы: укажите Ваш реальный опыт работы, мы уточним его соответствие к требованиям по избранной Вами специализации для работы на..."
+    },
+    {
+        "title": "Няня",
+        "url": "https://hh.ru/vacancy/117476392",
+        "salary_from": null,
+        "salary_to": 334000,
+        "description": "образование желательно педагогическое."
+    },
+    {
+        "title": "Заведующий складом",
+        "url": "https://hh.ru/vacancy/117485420",
+        "salary_from": 350000,
+        "salary_to": 351000,
+        "description": "Среднее профессиональное образование. Опыт работы не менее 3-лет заведующим складом или старшим кладовщиком. Опытный пользователь ПК, Ехсеl, знание 1..."
+    },
+    {
+        "title": "Кладовщик ТМЦ",
+        "url": "https://hh.ru/vacancy/117413129",
+        "salary_from": 240000,
+        "salary_to": 240000,
+        "description": "Высшее/средне специальное образование. Знание программы 1С (прием, расход, перемещение). Опыт работы вахтовым методом."
+    },
+    {
+        "title": "Сотрудник линии на ликеро-водочный завод в Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/116254806",
+        "salary_from": 245000,
+        "salary_to": 298000,
+        "description": "Принимаем без опыта работы."
+    },
+    {
+        "title": "Сортировщик",
+        "url": "https://hh.ru/vacancy/117293075",
+        "salary_from": 1000,
+        "salary_to": 2000,
+        "description": "Люди с базовыми знаниями русского языка! Набираем сотрудников для стабильной работы в России с полным набором гарантий.  Опыт не нужен..."
+    },
+    {
+        "title": "Кладовщик ТМЦ",
+        "url": "https://hh.ru/vacancy/117413131",
+        "salary_from": 240000,
+        "salary_to": 240000,
+        "description": "Высшее/средне специальное образование. Знание программы 1С (прием, расход, перемещение). Опыт работы вахтовым методом."
+    },
+    {
+        "title": "Стюард \\ стюардесса морского круизного флота",
+        "url": "https://hh.ru/vacancy/116308770",
+        "salary_from": 1200,
+        "salary_to": 2700,
+        "description": "Опыт работы: укажите Ваш реальный опыт работы, мы уточним его соответствие к требованиям по избранной Вами специализации для работы на..."
+    },
+    {
+        "title": "Кладовщик ТМЦ",
+        "url": "https://hh.ru/vacancy/117413130",
+        "salary_from": 240000,
+        "salary_to": 240000,
+        "description": "Высшее/средне специальное образование. Знание программы 1С (прием, расход, перемещение). Опыт работы вахтовым методом."
+    },
+    {
+        "title": "Упаковщик-комплектовщик армейских сухпайков",
+        "url": "https://hh.ru/vacancy/116304832",
+        "salary_from": 255000,
+        "salary_to": 499000,
+        "description": "Готовность приступить к работе в ближайшее время. Желание обучаться в процессе работы."
+    },
+    {
+        "title": "Рыбообработчик (ВАХТА)",
+        "url": "https://hh.ru/vacancy/116849205",
+        "salary_from": 360000,
+        "salary_to": null,
+        "description": "Опыт работы приветствуется, но не обязателен. Пунктуальность, исполнительность, коммуникабельность. Внимательность; ответственность."
+    },
+    {
+        "title": "Проходчик",
+        "url": "https://hh.ru/vacancy/115845133",
+        "salary_from": 1050000,
+        "salary_to": 1050000,
+        "description": "Опыт работы в ручной проходке от 2 лет (На добыче золота и прочих руд). Обязательно наличие удостоверения \"Проходчик 4, 5..."
+    },
+    {
+        "title": "Разнорабочий на улиточную ферму в Южную Корею",
+        "url": "https://hh.ru/vacancy/116910614",
+        "salary_from": 230000,
+        "salary_to": 250000,
+        "description": "Опыт работы и знание языка не требуются. Срок пребывания в стране от 3-х месяцев до 2-ух лет. — "
+    },
+    {
+        "title": "Диспетчер автотранспортного цеха",
+        "url": "https://hh.ru/vacancy/117315633",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее или среднее профессиональное (техническое, экономическое) образование. Желательно наличие опыт работы на аналогичной должности. Знание кыргызского и русского языков обязательно. "
+    },
+    {
+        "title": "Электрик",
+        "url": "https://hh.ru/vacancy/117446067",
+        "salary_from": 1100000,
+        "salary_to": 1500000,
+        "description": "Опыт работы в сфере электромонтажа от 3 лет. - Знание международных стандартов и техники безопасности. - Умение читать и работать с чертежами..."
+    },
+    {
+        "title": "Упаковщик на чaйную фабрику АХМАД",
+        "url": "https://hh.ru/vacancy/116949934",
+        "salary_from": 380000,
+        "salary_to": 450000,
+        "description": "Проживаниe и питaние Бecплaтнo!"
+    },
+    {
+        "title": "Заведующий складом",
+        "url": "https://hh.ru/vacancy/117485142",
+        "salary_from": 350000,
+        "salary_to": 351000,
+        "description": "Среднее профессиональное образование. Опыт работы не менее 3-лет заведующим складом или старшим кладовщиком. Опытный пользователь ПК, Ехсеl, знание 1..."
+    },
+    {
+        "title": "Телохранитель/Частный охранник на Ближнем Востоке",
+        "url": "https://hh.ru/vacancy/117449790",
+        "salary_from": 4200,
+        "salary_to": null,
+        "description": "Владение английским языком не ниже Intermediate (B1). Опыт работы в полиции от 2-х лет. Опыт работы более 1..."
+    },
+    {
+        "title": "Проходчик",
+        "url": "https://hh.ru/vacancy/112622161",
+        "salary_from": 1050000,
+        "salary_to": 1050000,
+        "description": "Опыт работы в ручной проходке от 2 лет (На добыче золота и прочих руд). Обязательно наличие удостоверения \"Проходчик 4, 5..."
+    },
+    {
+        "title": "Куратор Вахтовиков",
+        "url": "https://hh.ru/vacancy/117455522",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "description": "Опыт работы с людьми приветствуется, но не обязателен. Умение эффективно управлять коллективом и поддерживать дисциплину. Навыки ведения отчетности и документооборота. "
+    },
+    {
+        "title": "Упаковщик ланч-боксов для пассажиров",
+        "url": "https://hh.ru/vacancy/116813885",
+        "salary_from": null,
+        "salary_to": 210000,
+        "description": "Опыт работы не требуется (вакансия без опыта)."
+    },
+    {
+        "title": "Упаковщик ланч-боксов для пассажиров",
+        "url": "https://hh.ru/vacancy/116813887",
+        "salary_from": null,
+        "salary_to": 210000,
+        "description": "Опыт работы не требуется (вакансия без опыта)."
+    },
+    {
+        "title": "Укладчик-упаковщик соков Rich",
+        "url": "https://hh.ru/vacancy/106943881",
+        "salary_from": 240000,
+        "salary_to": 999999,
+        "description": null
+    },
+    {
+        "title": "Горнорабочий на геологических работах",
+        "url": "https://hh.ru/vacancy/116069133",
+        "salary_from": 371276,
+        "salary_to": 371276,
+        "description": "Наличие свидетельства, удостоверения по профессии."
+    },
+    {
+        "title": "Водитель автомобиля",
+        "url": "https://hh.ru/vacancy/117481547",
+        "salary_from": 170000,
+        "salary_to": 200000,
+        "description": "Подтвержденный опыт (по трудовой книжке) работы водителем в крупной строительной или транспортной компании не менее 2 лет. Готовность работать на..."
+    },
+    {
+        "title": "Водитель категории В",
+        "url": "https://hh.ru/vacancy/117451064",
+        "salary_from": 155000,
+        "salary_to": 155000,
+        "description": "Водительское удостоверения, кат. В. Способность пройти обучения безопасное вождения. Опыт работ в данной должности."
+    },
+    {
+        "title": "Няня к мальчику (2 года)",
+        "url": "https://hh.ru/vacancy/117478990",
+        "salary_from": 210000,
+        "salary_to": 225000,
+        "description": "Грамотная русская речь. Широкий кругозор. Педагогическое образование. Знание методик. В хорошей физической форме. Наличие рекомендаций. Готовность пройти ПОЛИГРАФ."
+    },
+    {
+        "title": "Личный ассистент",
+        "url": "https://hh.ru/vacancy/117372510",
+        "salary_from": 2000,
+        "salary_to": 4000,
+        "description": "Английский на уровне C1 (минимум B2, если готов улучшать). Испанский B2 или выше. Готов к интенсивной работе..."
+    },
+    {
+        "title": "Монтажник технологических трубопроводов",
+        "url": "https://hh.ru/vacancy/117449194",
+        "salary_from": 1150000,
+        "salary_to": 1480000,
+        "description": "Опыт работы трубопроводчиком от 5 лет (минимум 3 года в нефтегазовой, фармацевтической или аналогичных отраслях за границей). - Умение читать P..."
+    },
+    {
+        "title": "Личная горничная",
+        "url": "https://hh.ru/vacancy/117445146",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "К 2 братьям, 13 и 20 лет. В доме есть животные (отсутствие аллергии). Опыт работы в VIP - семьях обязателен! Срочно."
+    },
+    {
+        "title": "Диспетчер",
+        "url": "https://hh.ru/vacancy/117452254",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Пользователь ПК уровень от Среднего. Опыт работы вахтовым методом. Умение выстраивать конструктивный диалог. Умение работать с путевыми листами."
+    },
+    {
+        "title": "Заместитель главного механика",
+        "url": "https://hh.ru/vacancy/117452477",
+        "salary_from": 380000,
+        "salary_to": 380000,
+        "description": "Высшее техническое образование. Опыт работы на инженерно-технических должностях от 3-х лет. Опыт работы с дорожно-строительной и карьерной..."
+    },
+    {
+        "title": "Разнорабочий",
+        "url": "https://hh.ru/vacancy/117354525",
+        "salary_from": 600000,
+        "salary_to": null,
+        "description": "Опыт работы. Умение работать на объектах труда."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362417",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362418",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362416",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362415",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Няня для девочки 4,5 года",
+        "url": "https://hh.ru/vacancy/117409471",
+        "salary_from": 10000,
+        "salary_to": 10000,
+        "description": "Требования: педагогическое образование, опыт работы в семьях, аккуратная, опрятная, общительная, готовность пройти полиграф после пробных дней."
+    },
+    {
+        "title": "Комплектовщик на склад М/Ж не ТЯЖЁЛАЯ РАБОТА",
+        "url": "https://hh.ru/vacancy/117088921",
+        "salary_from": 196000,
+        "salary_to": 499999,
+        "description": "ОТ ВAC: ️ Паспорт, работоспособность, ответственность и внимательность."
+    },
+    {
+        "title": "Диспетчер",
+        "url": "https://hh.ru/vacancy/117452256",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Пользователь ПК уровень от Среднего. Опыт работы вахтовым методом. Умение выстраивать конструктивный диалог. Умение работать с путевыми листами."
+    },
+    {
+        "title": "Упаковщик британских сигарет на производство",
+        "url": "https://hh.ru/vacancy/117455418",
+        "salary_from": null,
+        "salary_to": 169990,
+        "description": "Опыт не требуется - обучим - главное желание зарабатывать!!! Опыт работы не требуется (вакансия без опыта)."
+    },
+    {
+        "title": "Водитель категории С",
+        "url": "https://hh.ru/vacancy/117079475",
+        "salary_from": 4000,
+        "salary_to": null,
+        "description": "Требуется опыт работы."
+    },
+    {
+        "title": "Мастер производственного участка",
+        "url": "https://hh.ru/vacancy/117468843",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее (или послевузовское) образование по соответствующей специальности и стаж работы на производстве не менее 1 года или среднее техническое и..."
+    },
+    {
+        "title": "Разнорабочий в порт",
+        "url": "https://hh.ru/vacancy/116889661",
+        "salary_from": 140000,
+        "salary_to": null,
+        "description": "Опыт работы на складах с большим ассортиментом ТМЦ приветствуется. Готовность к физическому и умственному труду."
+    },
+    {
+        "title": "Диспетчер",
+        "url": "https://hh.ru/vacancy/117452249",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Пользователь ПК уровень от Среднего. Опыт работы вахтовым методом. Умение выстраивать конструктивный диалог. Умение работать с путевыми листами."
+    },
+    {
+        "title": "Разнорабочий в порт",
+        "url": "https://hh.ru/vacancy/116889653",
+        "salary_from": 140000,
+        "salary_to": null,
+        "description": "Опыт работы на складах с большим ассортиментом ТМЦ приветствуется. Готовность к физическому и умственному труду."
+    },
+    {
+        "title": "Слесарь по обслуживанию горной техники",
+        "url": "https://hh.ru/vacancy/96780772",
+        "salary_from": 65000,
+        "salary_to": null,
+        "description": "Опыт работы в должности соответствующего профиля приветствуется. Ответственность, исполнительность, внимательность."
+    },
+    {
+        "title": "Старатель",
+        "url": "https://hh.ru/vacancy/117252103",
+        "salary_from": 100000,
+        "salary_to": 400000,
+        "description": null
+    },
+    {
+        "title": "Заведующий складом",
+        "url": "https://hh.ru/vacancy/117482252",
+        "salary_from": 120000,
+        "salary_to": 140000,
+        "description": "Уверенный пользователь ПК. Ответственность. Внимательность."
+    },
+    {
+        "title": "Водитель категории Б",
+        "url": "https://hh.ru/vacancy/117504064",
+        "salary_from": 171000,
+        "salary_to": 171000,
+        "description": "Водительское удостоверение с открытой категорией B. Подтверждённый опыт работы."
+    },
+    {
+        "title": "Разнорабочий в порт",
+        "url": "https://hh.ru/vacancy/116889658",
+        "salary_from": 140000,
+        "salary_to": null,
+        "description": "Опыт работы на складах с большим ассортиментом ТМЦ приветствуется. Готовность к физическому и умственному труду."
+    },
+    {
+        "title": "Контролер-охранник",
+        "url": "https://hh.ru/vacancy/117461258",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "description": "Желательно опыт работы в правоохранных органах, охране, вахтером."
+    },
+    {
+        "title": "Няня к ребенку 2 лет в Швейцарию",
+        "url": "https://hh.ru/vacancy/117211133",
+        "salary_from": 3000,
+        "salary_to": null,
+        "description": "Педагогическое образование. Опыт работы в семьях с проживанием. Знание английского, французского, либо немецкого. Грамотная речь, отсутствие препятствий к выезду в..."
+    },
+    {
+        "title": "Комендант",
+        "url": "https://hh.ru/vacancy/117488772",
+        "salary_from": null,
+        "salary_to": 130000,
+        "description": "Опыт работы в охране на строительных объектах. Опыт работы в содержании вахтового городка, гостиницы, общежития. Опыт в организации питания вахтового..."
+    },
+    {
+        "title": "Фельдшер",
+        "url": "https://hh.ru/vacancy/117182317",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Наличие сертификата/свидетельства фельдшера обязательно."
+    },
+    {
+        "title": "Кладовщик - оператор",
+        "url": "https://hh.ru/vacancy/117321571",
+        "salary_from": 330000,
+        "salary_to": 400000,
+        "description": null
+    },
+    {
+        "title": "Администратор",
+        "url": "https://hh.ru/vacancy/116529598",
+        "salary_from": 80000,
+        "salary_to": 250000,
+        "description": "Презентабельный внeшний вид. Ответственность. Пунктуальность. Кoммуникaбельноcть. Желание зарабатывать. Позитивный настрой."
+    },
+    {
+        "title": "Упаковщик - Сборщик на склад товаров для WILDBERRIES",
+        "url": "https://hh.ru/vacancy/106281622",
+        "salary_from": 288000,
+        "salary_to": 398000,
+        "description": "Внимательность, готовность работать."
+    },
+    {
+        "title": "Упаковщик - Сборщик на склад товаров для WILDBERRIES",
+        "url": "https://hh.ru/vacancy/106281623",
+        "salary_from": 288000,
+        "salary_to": 398000,
+        "description": "Внимательность, готовность работать."
+    },
+    {
+        "title": "Делопроизводитель (Ковыктинское месторождение)",
+        "url": "https://hh.ru/vacancy/117391486",
+        "salary_from": 132000,
+        "salary_to": null,
+        "description": "Опыт работы от 1 года. Уверенный пользователь ПК (знание 1С и Excel). Точность и аккуратность в работе с документами. "
+    },
+    {
+        "title": "Администратор выездной бригады",
+        "url": "https://hh.ru/vacancy/117465700",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": null
+    },
+    {
+        "title": "Сборщик на оборонный завод",
+        "url": "https://hh.ru/vacancy/114990626",
+        "salary_from": 120000,
+        "salary_to": 130000,
+        "description": "Без опыта. Полная занятость. Вахтовый метод."
+    },
+    {
+        "title": "Упаковщик продукции Марс",
+        "url": "https://hh.ru/vacancy/110318358",
+        "salary_from": 300000,
+        "salary_to": null,
+        "description": null
+    },
+    {
+        "title": "Электрогазосварщик",
+        "url": "https://hh.ru/vacancy/117455227",
+        "salary_from": 250000,
+        "salary_to": null,
+        "description": "Наличие удостоверения сварщика. Опыт работы от 3-х лет. Желателен опыт работы вахтовым методом."
+    },
+    {
+        "title": "Диспетчер (Диспетчерская служба)",
+        "url": "https://hh.ru/vacancy/117467541",
+        "salary_from": 139000,
+        "salary_to": null,
+        "description": "Высшее образование по направлению эксплуатация энергетического оборудования. Не менее 6 месяцев профильного стажа по направлению эксплуатация энергетического оборудования. "
+    },
+    {
+        "title": "Водитель вахтовки",
+        "url": "https://hh.ru/vacancy/117483988",
+        "salary_from": 210000,
+        "salary_to": 225000,
+        "description": "Наличие водительского удостоверения категории \"D\". Наличие сертификата/удостоверения об обучении по программам \"Защитное вождение\", в случае отсутствия производим обучение. "
+    },
+    {
+        "title": "Кладовщик",
+        "url": "https://hh.ru/vacancy/117499121",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Опыт работы от 1 до 3 лет. Знание основных складских и логистических процессов. Знание программы 1С, MS Office."
+    },
+    {
+        "title": "Водитель погрузчика",
+        "url": "https://hh.ru/vacancy/117484796",
+        "salary_from": 137000,
+        "salary_to": 143000,
+        "description": "Опыт работы по профессии. Записи в трудовой."
+    },
+    {
+        "title": "Водитель категории В",
+        "url": "https://hh.ru/vacancy/117487141",
+        "salary_from": 99000,
+        "salary_to": null,
+        "description": "Наличие водительского удостоверения категории В. Опыт работы на подобных/аналогичных автомобилях. Опыт ремонта и обслуживания техники желателен. Ответственность, дисциплинированность."
+    },
+    {
+        "title": "Помощник/рабочий в курортный центр",
+        "url": "https://hh.ru/vacancy/116275367",
+        "salary_from": 190000,
+        "salary_to": 297000,
+        "description": "Принимаем на вакансию без опыта работы."
+    },
+    {
+        "title": "Специалист по охране труда и промышленной безопасности",
+        "url": "https://hh.ru/vacancy/117434692",
+        "salary_from": 280000,
+        "salary_to": null,
+        "description": "Высшее образование - бакалавриат или высшее образование (непрофильное) - бакалавриат и дополнительное профессиональное образование - программы профессиональной переподготовки в области охраны труда или..."
+    },
+    {
+        "title": "Упаковщик на производство, г. Новосибирск",
+        "url": "https://hh.ru/vacancy/115057858",
+        "salary_from": 100000,
+        "salary_to": 240000,
+        "description": "По всем вопросам, пожалуйста, обращайтесь удобным для вас способом: WhatsApp, Telegram, звонки."
+    },
+    {
+        "title": "Рабочий на производство в г. Ростов-на-Дону",
+        "url": "https://hh.ru/vacancy/117347483",
+        "salary_from": 170000,
+        "salary_to": 175000,
+        "description": "Простая, но физически активная работа. - *Без опыта* (обучаем на месте). - Ответственных и готовых работать. - С физической выносливостью."
+    },
+    {
+        "title": "Сторож",
+        "url": "https://hh.ru/vacancy/117392861",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "description": null
+    },
+    {
+        "title": "Руководитель технической службы коммунального хозяйства",
+        "url": "https://hh.ru/vacancy/117477523",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Желательно высшее образование в технической сфере. Опыт работы вахтовым методом не менее 3-х лет на руководящей должности. "
+    },
+    {
+        "title": "Бортпроводник яхты",
+        "url": "https://hh.ru/vacancy/116916642",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Образование: от среднего полного. - Наличие сертификата STCW95, сертификата по сервису. - Наличие загранпаспорта. - Знание английского языка на уровне школы, ВУЗа. - "
+    },
+    {
+        "title": "Кладовщик (инженер МТС)",
+        "url": "https://hh.ru/vacancy/117467443",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Хозяйственный подход к работе является самым важным критерием. Опыт работы не менее 2х лет. Опытный пользователь ПК, обязательное знание..."
+    },
+    {
+        "title": "Главный специалист по питанию",
+        "url": "https://hh.ru/vacancy/117474228",
+        "salary_from": 170000,
+        "salary_to": 255000,
+        "description": "Образование: Профильное образование управленца в общественном питании с опытом работы не менее 5 лет. Медицинская книжка, медицинский осмотр. "
+    },
+    {
+        "title": "Водитель легкового автомобиля",
+        "url": "https://hh.ru/vacancy/117401997",
+        "salary_from": 70000,
+        "salary_to": 70000,
+        "description": "Стаж вождения от 3-х лет. Готовность к длительным командировкам по регионам Центральной полосы России на 1,5 -- 2,5..."
+    },
+    {
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/117061259",
+        "salary_from": 500000,
+        "salary_to": null,
+        "description": "От 5 лет работы. Специальное образование. Санитарная книжка. Пунктуальность. Контракт на 3 месяца (июнь, июль, август) (курорт Бурабай)."
+    },
+    {
+        "title": "Водитель легкового автомобиля",
+        "url": "https://hh.ru/vacancy/117401996",
+        "salary_from": 70000,
+        "salary_to": 70000,
+        "description": "Стаж вождения от 3-х лет. Готовность к длительным командировкам по регионам Центральной полосы России на 1,5 -- 2,5..."
+    },
+    {
+        "title": "Менеджер с ростом до руководителя",
+        "url": "https://hh.ru/vacancy/117347777",
+        "salary_from": 215000,
+        "salary_to": 260000,
+        "description": "У Вас есть опыт личных продаж (а именно, запчастей. Желательно грузовиков и полуприцепов (Китай, Европа, Америка), спецтехника (ППУ, ЦА-320)). "
+    },
+    {
+        "title": "Маркшейдер (ОГР, БВР)",
+        "url": "https://hh.ru/vacancy/117497446",
+        "salary_from": 300000,
+        "salary_to": null,
+        "description": "Высшее образование - «Маркшейдерское дело». Умение работать с электронным тахеометром, GPS оборудованием. Знание пакета Microsoft office, AutoCAD, Credo. Опыт работы маркшейдером..."
+    },
+    {
+        "title": "Сварщик ручной-дуговой сварки 4-7 разряда",
+        "url": "https://hh.ru/vacancy/117432062",
+        "salary_from": 220000,
+        "salary_to": 240000,
+        "description": "Обязательно загран паспорт действующий. Подтвержденный опыт работы по направлению (тд.книжка, тд.договор, удостоверение) не менее двух лет. Умение работать в команде..."
+    },
+    {
+        "title": "Линейный механик",
+        "url": "https://hh.ru/vacancy/117469990",
+        "salary_from": null,
+        "salary_to": 200000,
+        "description": "Права категории B обязательны. Права категории C будут Вашим преимуществом. Наличие удостоверений «Механик по выпуску автотранспорта на линию» и «Контролер..."
+    },
+    {
+        "title": "Водитель",
+        "url": "https://hh.ru/vacancy/117253315",
+        "salary_from": 270000,
+        "salary_to": 320000,
+        "description": "Дисциплинированность. Работоспособность."
+    },
+    {
+        "title": "Инженер АСУТП",
+        "url": "https://hh.ru/vacancy/117455594",
+        "salary_from": 500000,
+        "salary_to": null,
+        "description": "1 1. Образование и квалификация. Высшее техническое образование (Автоматизация, Приборостроение, Электротехника, Программирование, Инженерия). Желательно наличие дополнительной сертификации по промышленной автоматизации..."
+    },
+    {
+        "title": "Сварщик ручной-дуговой сварки 4-7 разряда",
+        "url": "https://hh.ru/vacancy/117432060",
+        "salary_from": 220000,
+        "salary_to": 240000,
+        "description": "Обязательно загран паспорт действующий. Подтвержденный опыт работы по направлению (тд.книжка, тд.договор, удостоверение) не менее двух лет. Умение работать в команде..."
+    },
+    {
+        "title": "Руководитель технической службы коммунального хозяйства",
+        "url": "https://hh.ru/vacancy/117477522",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Желательно высшее образование в технической сфере. Опыт работы вахтовым методом не менее 3-х лет на руководящей должности. "
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Python Dev",
+        "url": "http://example.com",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "description": "Опыт работы от 3 лет"
+    },
+    {
+        "title": "Java Dev",
+        "url": "http://example.com",
+        "salary_from": 120000,
+        "salary_to": 160000,
+        "description": "Опыт работы от 5 лет"
+    },
+    {
+        "title": "Супервайзер по сероводороду на Карачаганакское месторождение",
+        "url": "https://hh.ru/vacancy/117207622",
+        "salary_from": 800000,
+        "salary_to": null,
+        "description": "Опыт работы от 1 года. Знание языков: Казахский и Русский на свободном уровне. Знание технических терминов и спецификаций оборудований: Газовая..."
+    },
+    {
+        "title": "Охранник",
+        "url": "https://hh.ru/vacancy/117501321",
+        "salary_from": 150000,
+        "salary_to": null,
+        "description": "Наличие УЧО."
+    },
+    {
+        "title": "Администратор на Карабатан",
+        "url": "https://hh.ru/vacancy/116703205",
+        "salary_from": 400000,
+        "salary_to": 450000,
+        "description": "Высшее/средне-специальное. Грамотная письменная и устная речь. Высокая работоспособность, стрессоустойчивость. Знание английского языка."
+    },
+    {
+        "title": "Водитель-механик",
+        "url": "https://hh.ru/vacancy/117472597",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Категория прав B, C, D, D1."
+    },
+    {
+        "title": "Персональный водитель руководителя",
+        "url": "https://hh.ru/vacancy/117495565",
+        "salary_from": 150000,
+        "salary_to": 150000,
+        "description": "Опыт работы ."
+    },
+    {
+        "title": "Водитель категории В",
+        "url": "https://hh.ru/vacancy/117502636",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "description": "Опыт работы на нефтегазовых месторождениях ЯНАО и ХМАО будет преимуществом. Опыт работы водителем от 3-х лет (подтверждение по трудовой..."
+    },
+    {
+        "title": "Мастер по глубокой клизме для криптоинвестора",
+        "url": "https://hh.ru/vacancy/117359771",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "description": "P.S. Комики и стендаперы, проходите мимо. Мы не хотим слышать истории об анусах. Ярко выраженная любовь к крипте. "
+    },
+    {
+        "title": "Электромонтер контактной сети",
+        "url": "https://hh.ru/vacancy/117176316",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "description": "Знать способы соединения и оконцевания токопроводящих жил кабеля различных конструкций и видов изоляции. Иметь аттестацию на группу 5 по электробезопасности..."
+    },
+    {
+        "title": "Упаковщик одежды Adidas",
+        "url": "https://hh.ru/vacancy/117007751",
+        "salary_from": 410000,
+        "salary_to": 480000,
+        "description": "Опыт не важен- ОБУЧАЕМ."
+    },
+    {
+        "title": "Проходчик",
+        "url": "https://hh.ru/vacancy/115845137",
+        "salary_from": 1050000,
+        "salary_to": 1050000,
+        "description": "Опыт работы в ручной проходке от 2 лет (На добыче золота и прочих руд). Обязательно наличие удостоверения \"Проходчик 4, 5..."
+    },
+    {
+        "title": "Супервайзер ОЗТОС",
+        "url": "https://hh.ru/vacancy/117453993",
+        "salary_from": null,
+        "salary_to": 806567,
+        "description": "Предпочтительно знание английского языка."
+    },
+    {
+        "title": "Стюард \\ стюардесса морского круизного флота",
+        "url": "https://hh.ru/vacancy/117314196",
+        "salary_from": 1200,
+        "salary_to": 2700,
+        "description": "Опыт работы: укажите Ваш реальный опыт работы, мы уточним его соответствие к требованиям по избранной Вами специализации для работы на..."
+    },
+    {
+        "title": "Няня",
+        "url": "https://hh.ru/vacancy/117476392",
+        "salary_from": null,
+        "salary_to": 334000,
+        "description": "образование желательно педагогическое."
+    },
+    {
+        "title": "Кладовщик ТМЦ",
+        "url": "https://hh.ru/vacancy/117413129",
+        "salary_from": 240000,
+        "salary_to": 240000,
+        "description": "Высшее/средне специальное образование. Знание программы 1С (прием, расход, перемещение). Опыт работы вахтовым методом."
+    },
+    {
+        "title": "Сотрудник линии на ликеро-водочный завод в Санкт-Петербург",
+        "url": "https://hh.ru/vacancy/116254806",
+        "salary_from": 245000,
+        "salary_to": 298000,
+        "description": "Принимаем без опыта работы."
+    },
+    {
+        "title": "Сортировщик",
+        "url": "https://hh.ru/vacancy/117293075",
+        "salary_from": 1000,
+        "salary_to": 2000,
+        "description": "Люди с базовыми знаниями русского языка! Набираем сотрудников для стабильной работы в России с полным набором гарантий.  Опыт не нужен..."
+    },
+    {
+        "title": "Заведующий складом",
+        "url": "https://hh.ru/vacancy/117485420",
+        "salary_from": 350000,
+        "salary_to": 351000,
+        "description": "Среднее профессиональное образование. Опыт работы не менее 3-лет заведующим складом или старшим кладовщиком. Опытный пользователь ПК, Ехсеl, знание 1..."
+    },
+    {
+        "title": "Кладовщик ТМЦ",
+        "url": "https://hh.ru/vacancy/117413131",
+        "salary_from": 240000,
+        "salary_to": 240000,
+        "description": "Высшее/средне специальное образование. Знание программы 1С (прием, расход, перемещение). Опыт работы вахтовым методом."
+    },
+    {
+        "title": "Стюард \\ стюардесса морского круизного флота",
+        "url": "https://hh.ru/vacancy/116308770",
+        "salary_from": 1200,
+        "salary_to": 2700,
+        "description": "Опыт работы: укажите Ваш реальный опыт работы, мы уточним его соответствие к требованиям по избранной Вами специализации для работы на..."
+    },
+    {
+        "title": "Кладовщик ТМЦ",
+        "url": "https://hh.ru/vacancy/117413130",
+        "salary_from": 240000,
+        "salary_to": 240000,
+        "description": "Высшее/средне специальное образование. Знание программы 1С (прием, расход, перемещение). Опыт работы вахтовым методом."
+    },
+    {
+        "title": "Упаковщик-комплектовщик армейских сухпайков",
+        "url": "https://hh.ru/vacancy/116304832",
+        "salary_from": 255000,
+        "salary_to": 499000,
+        "description": "Готовность приступить к работе в ближайшее время. Желание обучаться в процессе работы."
+    },
+    {
+        "title": "Рыбообработчик (ВАХТА)",
+        "url": "https://hh.ru/vacancy/116849205",
+        "salary_from": 360000,
+        "salary_to": null,
+        "description": "Опыт работы приветствуется, но не обязателен. Пунктуальность, исполнительность, коммуникабельность. Внимательность; ответственность."
+    },
+    {
+        "title": "Проходчик",
+        "url": "https://hh.ru/vacancy/115845133",
+        "salary_from": 1050000,
+        "salary_to": 1050000,
+        "description": "Опыт работы в ручной проходке от 2 лет (На добыче золота и прочих руд). Обязательно наличие удостоверения \"Проходчик 4, 5..."
+    },
+    {
+        "title": "Разнорабочий на улиточную ферму в Южную Корею",
+        "url": "https://hh.ru/vacancy/116910614",
+        "salary_from": 230000,
+        "salary_to": 250000,
+        "description": "Опыт работы и знание языка не требуются. Срок пребывания в стране от 3-х месяцев до 2-ух лет. — "
+    },
+    {
+        "title": "Диспетчер автотранспортного цеха",
+        "url": "https://hh.ru/vacancy/117315633",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее или среднее профессиональное (техническое, экономическое) образование. Желательно наличие опыт работы на аналогичной должности. Знание кыргызского и русского языков обязательно. "
+    },
+    {
+        "title": "Заведующий складом",
+        "url": "https://hh.ru/vacancy/117485142",
+        "salary_from": 350000,
+        "salary_to": 351000,
+        "description": "Среднее профессиональное образование. Опыт работы не менее 3-лет заведующим складом или старшим кладовщиком. Опытный пользователь ПК, Ехсеl, знание 1..."
+    },
+    {
+        "title": "Электрик",
+        "url": "https://hh.ru/vacancy/117446067",
+        "salary_from": 1100000,
+        "salary_to": 1500000,
+        "description": "Опыт работы в сфере электромонтажа от 3 лет. - Знание международных стандартов и техники безопасности. - Умение читать и работать с чертежами..."
+    },
+    {
+        "title": "Упаковщик на чaйную фабрику АХМАД",
+        "url": "https://hh.ru/vacancy/116949934",
+        "salary_from": 380000,
+        "salary_to": 450000,
+        "description": "Проживаниe и питaние Бecплaтнo!"
+    },
+    {
+        "title": "Телохранитель/Частный охранник на Ближнем Востоке",
+        "url": "https://hh.ru/vacancy/117449790",
+        "salary_from": 4200,
+        "salary_to": null,
+        "description": "Владение английским языком не ниже Intermediate (B1). Опыт работы в полиции от 2-х лет. Опыт работы более 1..."
+    },
+    {
+        "title": "Проходчик",
+        "url": "https://hh.ru/vacancy/112622161",
+        "salary_from": 1050000,
+        "salary_to": 1050000,
+        "description": "Опыт работы в ручной проходке от 2 лет (На добыче золота и прочих руд). Обязательно наличие удостоверения \"Проходчик 4, 5..."
+    },
+    {
+        "title": "Куратор Вахтовиков",
+        "url": "https://hh.ru/vacancy/117455522",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "description": "Опыт работы с людьми приветствуется, но не обязателен. Умение эффективно управлять коллективом и поддерживать дисциплину. Навыки ведения отчетности и документооборота. "
+    },
+    {
+        "title": "Укладчик-упаковщик соков Rich",
+        "url": "https://hh.ru/vacancy/106943881",
+        "salary_from": 240000,
+        "salary_to": 999999,
+        "description": null
+    },
+    {
+        "title": "Упаковщик ланч-боксов для пассажиров",
+        "url": "https://hh.ru/vacancy/116813885",
+        "salary_from": null,
+        "salary_to": 210000,
+        "description": "Опыт работы не требуется (вакансия без опыта)."
+    },
+    {
+        "title": "Упаковщик ланч-боксов для пассажиров",
+        "url": "https://hh.ru/vacancy/116813887",
+        "salary_from": null,
+        "salary_to": 210000,
+        "description": "Опыт работы не требуется (вакансия без опыта)."
+    },
+    {
+        "title": "Горнорабочий на геологических работах",
+        "url": "https://hh.ru/vacancy/116069133",
+        "salary_from": 371276,
+        "salary_to": 371276,
+        "description": "Наличие свидетельства, удостоверения по профессии."
+    },
+    {
+        "title": "Водитель автомобиля",
+        "url": "https://hh.ru/vacancy/117481547",
+        "salary_from": 170000,
+        "salary_to": 200000,
+        "description": "Подтвержденный опыт (по трудовой книжке) работы водителем в крупной строительной или транспортной компании не менее 2 лет. Готовность работать на..."
+    },
+    {
+        "title": "Водитель категории В",
+        "url": "https://hh.ru/vacancy/117451064",
+        "salary_from": 155000,
+        "salary_to": 155000,
+        "description": "Водительское удостоверения, кат. В. Способность пройти обучения безопасное вождения. Опыт работ в данной должности."
+    },
+    {
+        "title": "Няня к мальчику (2 года)",
+        "url": "https://hh.ru/vacancy/117478990",
+        "salary_from": 210000,
+        "salary_to": 225000,
+        "description": "Грамотная русская речь. Широкий кругозор. Педагогическое образование. Знание методик. В хорошей физической форме. Наличие рекомендаций. Готовность пройти ПОЛИГРАФ."
+    },
+    {
+        "title": "Личный ассистент",
+        "url": "https://hh.ru/vacancy/117372510",
+        "salary_from": 2000,
+        "salary_to": 4000,
+        "description": "Английский на уровне C1 (минимум B2, если готов улучшать). Испанский B2 или выше. Готов к интенсивной работе..."
+    },
+    {
+        "title": "Монтажник технологических трубопроводов",
+        "url": "https://hh.ru/vacancy/117449194",
+        "salary_from": 1150000,
+        "salary_to": 1480000,
+        "description": "Опыт работы трубопроводчиком от 5 лет (минимум 3 года в нефтегазовой, фармацевтической или аналогичных отраслях за границей). - Умение читать P..."
+    },
+    {
+        "title": "Заместитель главного механика",
+        "url": "https://hh.ru/vacancy/117452477",
+        "salary_from": 380000,
+        "salary_to": 380000,
+        "description": "Высшее техническое образование. Опыт работы на инженерно-технических должностях от 3-х лет. Опыт работы с дорожно-строительной и карьерной..."
+    },
+    {
+        "title": "Личная горничная",
+        "url": "https://hh.ru/vacancy/117445146",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "К 2 братьям, 13 и 20 лет. В доме есть животные (отсутствие аллергии). Опыт работы в VIP - семьях обязателен! Срочно."
+    },
+    {
+        "title": "Диспетчер",
+        "url": "https://hh.ru/vacancy/117452254",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Пользователь ПК уровень от Среднего. Опыт работы вахтовым методом. Умение выстраивать конструктивный диалог. Умение работать с путевыми листами."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362418",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Разнорабочий",
+        "url": "https://hh.ru/vacancy/117354525",
+        "salary_from": 600000,
+        "salary_to": null,
+        "description": "Опыт работы. Умение работать на объектах труда."
+    },
+    {
+        "title": "Водитель категории Б",
+        "url": "https://hh.ru/vacancy/117504064",
+        "salary_from": 171000,
+        "salary_to": 171000,
+        "description": "Водительское удостоверение с открытой категорией B. Подтверждённый опыт работы."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362417",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362415",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Делопроизводитель",
+        "url": "https://hh.ru/vacancy/117362416",
+        "salary_from": 140000,
+        "salary_to": 140000,
+        "description": "ПК - Microsoft Office, 1С ЗУП, ЭДО на уровне опытного пользователя. Правила защиты конфиденциальной служебной информации. Виды документов , их назначение..."
+    },
+    {
+        "title": "Упаковщик британских сигарет на производство",
+        "url": "https://hh.ru/vacancy/117455418",
+        "salary_from": null,
+        "salary_to": 169990,
+        "description": "Опыт не требуется - обучим - главное желание зарабатывать!!! Опыт работы не требуется (вакансия без опыта)."
+    },
+    {
+        "title": "Диспетчер",
+        "url": "https://hh.ru/vacancy/117452256",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Пользователь ПК уровень от Среднего. Опыт работы вахтовым методом. Умение выстраивать конструктивный диалог. Умение работать с путевыми листами."
+    },
+    {
+        "title": "Няня для девочки 4,5 года",
+        "url": "https://hh.ru/vacancy/117409471",
+        "salary_from": 10000,
+        "salary_to": 10000,
+        "description": "Требования: педагогическое образование, опыт работы в семьях, аккуратная, опрятная, общительная, готовность пройти полиграф после пробных дней."
+    },
+    {
+        "title": "Комплектовщик на склад М/Ж не ТЯЖЁЛАЯ РАБОТА",
+        "url": "https://hh.ru/vacancy/117088921",
+        "salary_from": 196000,
+        "salary_to": 499999,
+        "description": "ОТ ВAC: ️ Паспорт, работоспособность, ответственность и внимательность."
+    },
+    {
+        "title": "Кладовщик",
+        "url": "https://hh.ru/vacancy/117499121",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Опыт работы от 1 до 3 лет. Знание основных складских и логистических процессов. Знание программы 1С, MS Office."
+    },
+    {
+        "title": "Водитель категории С",
+        "url": "https://hh.ru/vacancy/117079475",
+        "salary_from": 4000,
+        "salary_to": null,
+        "description": "Требуется опыт работы."
+    },
+    {
+        "title": "Мастер производственного участка",
+        "url": "https://hh.ru/vacancy/117468843",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Высшее (или послевузовское) образование по соответствующей специальности и стаж работы на производстве не менее 1 года или среднее техническое и..."
+    },
+    {
+        "title": "Разнорабочий в порт",
+        "url": "https://hh.ru/vacancy/116889661",
+        "salary_from": 140000,
+        "salary_to": null,
+        "description": "Опыт работы на складах с большим ассортиментом ТМЦ приветствуется. Готовность к физическому и умственному труду."
+    },
+    {
+        "title": "Разнорабочий в порт",
+        "url": "https://hh.ru/vacancy/116889653",
+        "salary_from": 140000,
+        "salary_to": null,
+        "description": "Опыт работы на складах с большим ассортиментом ТМЦ приветствуется. Готовность к физическому и умственному труду."
+    },
+    {
+        "title": "Диспетчер",
+        "url": "https://hh.ru/vacancy/117452249",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Пользователь ПК уровень от Среднего. Опыт работы вахтовым методом. Умение выстраивать конструктивный диалог. Умение работать с путевыми листами."
+    },
+    {
+        "title": "Заведующий складом",
+        "url": "https://hh.ru/vacancy/117482252",
+        "salary_from": 120000,
+        "salary_to": 140000,
+        "description": "Уверенный пользователь ПК. Ответственность. Внимательность."
+    },
+    {
+        "title": "Слесарь по обслуживанию горной техники",
+        "url": "https://hh.ru/vacancy/96780772",
+        "salary_from": 65000,
+        "salary_to": null,
+        "description": "Опыт работы в должности соответствующего профиля приветствуется. Ответственность, исполнительность, внимательность."
+    },
+    {
+        "title": "Старатель",
+        "url": "https://hh.ru/vacancy/117252103",
+        "salary_from": 100000,
+        "salary_to": 400000,
+        "description": null
+    },
+    {
+        "title": "Разнорабочий в порт",
+        "url": "https://hh.ru/vacancy/116889658",
+        "salary_from": 140000,
+        "salary_to": null,
+        "description": "Опыт работы на складах с большим ассортиментом ТМЦ приветствуется. Готовность к физическому и умственному труду."
+    },
+    {
+        "title": "Контролер-охранник",
+        "url": "https://hh.ru/vacancy/117461258",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "description": "Желательно опыт работы в правоохранных органах, охране, вахтером."
+    },
+    {
+        "title": "Няня к ребенку 2 лет в Швейцарию",
+        "url": "https://hh.ru/vacancy/117211133",
+        "salary_from": 3000,
+        "salary_to": null,
+        "description": "Педагогическое образование. Опыт работы в семьях с проживанием. Знание английского, французского, либо немецкого. Грамотная речь, отсутствие препятствий к выезду в..."
+    },
+    {
+        "title": "Администратор",
+        "url": "https://hh.ru/vacancy/116529598",
+        "salary_from": 80000,
+        "salary_to": 250000,
+        "description": "Презентабельный внeшний вид. Ответственность. Пунктуальность. Кoммуникaбельноcть. Желание зарабатывать. Позитивный настрой."
+    },
+    {
+        "title": "Кладовщик - оператор",
+        "url": "https://hh.ru/vacancy/117321571",
+        "salary_from": 330000,
+        "salary_to": 400000,
+        "description": null
+    },
+    {
+        "title": "Фельдшер",
+        "url": "https://hh.ru/vacancy/117182317",
+        "salary_from": 0,
+        "salary_to": 0,
+        "description": "Наличие сертификата/свидетельства фельдшера обязательно."
+    },
+    {
+        "title": "Упаковщик - Сборщик на склад товаров для WILDBERRIES",
+        "url": "https://hh.ru/vacancy/106281623",
+        "salary_from": 288000,
+        "salary_to": 398000,
+        "description": "Внимательность, готовность работать."
+    },
+    {
+        "title": "Упаковщик - Сборщик на склад товаров для WILDBERRIES",
+        "url": "https://hh.ru/vacancy/106281622",
+        "salary_from": 288000,
+        "salary_to": 398000,
+        "description": "Внимательность, готовность работать."
+    },
+    {
+        "title": "Делопроизводитель (Ковыктинское месторождение)",
+        "url": "https://hh.ru/vacancy/117391486",
+        "salary_from": 132000,
+        "salary_to": null,
+        "description": "Опыт работы от 1 года. Уверенный пользователь ПК (знание 1С и Excel). Точность и аккуратность в работе с документами. "
+    },
+    {
+        "title": "Сборщик на оборонный завод",
+        "url": "https://hh.ru/vacancy/114990626",
+        "salary_from": 120000,
+        "salary_to": 130000,
+        "description": "Без опыта. Полная занятость. Вахтовый метод."
+    },
+    {
+        "title": "Администратор выездной бригады",
+        "url": "https://hh.ru/vacancy/117465700",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": null
+    },
+    {
+        "title": "Комендант",
+        "url": "https://hh.ru/vacancy/117488772",
+        "salary_from": null,
+        "salary_to": 130000,
+        "description": "Опыт работы в охране на строительных объектах. Опыт работы в содержании вахтового городка, гостиницы, общежития. Опыт в организации питания вахтового..."
+    },
+    {
+        "title": "Упаковщик продукции Марс",
+        "url": "https://hh.ru/vacancy/110318358",
+        "salary_from": 300000,
+        "salary_to": null,
+        "description": null
+    },
+    {
+        "title": "Кладовщик (инженер МТС)",
+        "url": "https://hh.ru/vacancy/117467443",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Хозяйственный подход к работе является самым важным критерием. Опыт работы не менее 2х лет. Опытный пользователь ПК, обязательное знание..."
+    },
+    {
+        "title": "Водитель вахтовки",
+        "url": "https://hh.ru/vacancy/117483988",
+        "salary_from": 210000,
+        "salary_to": 225000,
+        "description": "Наличие водительского удостоверения категории \"D\". Наличие сертификата/удостоверения об обучении по программам \"Защитное вождение\", в случае отсутствия производим обучение. "
+    },
+    {
+        "title": "Водитель категории В",
+        "url": "https://hh.ru/vacancy/117487141",
+        "salary_from": 99000,
+        "salary_to": null,
+        "description": "Наличие водительского удостоверения категории В. Опыт работы на подобных/аналогичных автомобилях. Опыт ремонта и обслуживания техники желателен. Ответственность, дисциплинированность."
+    },
+    {
+        "title": "Электрогазосварщик",
+        "url": "https://hh.ru/vacancy/117455227",
+        "salary_from": 250000,
+        "salary_to": null,
+        "description": "Наличие удостоверения сварщика. Опыт работы от 3-х лет. Желателен опыт работы вахтовым методом."
+    },
+    {
+        "title": "Кладовщик",
+        "url": "https://hh.ru/vacancy/117464898",
+        "salary_from": 160000,
+        "salary_to": 164000,
+        "description": "Знание действующего законодательства в части поставки, транспортировки и хранения МТЦ. Знать правила организации учета складских операций, ведения необходимой документации. "
+    },
+    {
+        "title": "Специалист по охране труда и промышленной безопасности",
+        "url": "https://hh.ru/vacancy/117434692",
+        "salary_from": 280000,
+        "salary_to": null,
+        "description": "Высшее образование - бакалавриат или высшее образование (непрофильное) - бакалавриат и дополнительное профессиональное образование - программы профессиональной переподготовки в области охраны труда или..."
+    },
+    {
+        "title": "Руководитель технической службы коммунального хозяйства",
+        "url": "https://hh.ru/vacancy/117477523",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Желательно высшее образование в технической сфере. Опыт работы вахтовым методом не менее 3-х лет на руководящей должности. "
+    },
+    {
+        "title": "Упаковщик на производство, г. Новосибирск",
+        "url": "https://hh.ru/vacancy/115057858",
+        "salary_from": 100000,
+        "salary_to": 240000,
+        "description": "По всем вопросам, пожалуйста, обращайтесь удобным для вас способом: WhatsApp, Telegram, звонки."
+    },
+    {
+        "title": "Помощник/рабочий в курортный центр",
+        "url": "https://hh.ru/vacancy/116275367",
+        "salary_from": 190000,
+        "salary_to": 297000,
+        "description": "Принимаем на вакансию без опыта работы."
+    },
+    {
+        "title": "Бортпроводник яхты",
+        "url": "https://hh.ru/vacancy/116916642",
+        "salary_from": 150000,
+        "salary_to": 180000,
+        "description": "Образование: от среднего полного. - Наличие сертификата STCW95, сертификата по сервису. - Наличие загранпаспорта. - Знание английского языка на уровне школы, ВУЗа. - "
+    },
+    {
+        "title": "Рабочий на производство в г. Ростов-на-Дону",
+        "url": "https://hh.ru/vacancy/117347483",
+        "salary_from": 170000,
+        "salary_to": 175000,
+        "description": "Простая, но физически активная работа. - *Без опыта* (обучаем на месте). - Ответственных и готовых работать. - С физической выносливостью."
+    },
+    {
+        "title": "Диспетчер (Диспетчерская служба)",
+        "url": "https://hh.ru/vacancy/117467541",
+        "salary_from": 139000,
+        "salary_to": null,
+        "description": "Высшее образование по направлению эксплуатация энергетического оборудования. Не менее 6 месяцев профильного стажа по направлению эксплуатация энергетического оборудования. "
+    },
+    {
+        "title": "Сторож",
+        "url": "https://hh.ru/vacancy/117392861",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "description": null
+    },
+    {
+        "title": "Водитель погрузчика",
+        "url": "https://hh.ru/vacancy/117484796",
+        "salary_from": 137000,
+        "salary_to": 143000,
+        "description": "Опыт работы по профессии. Записи в трудовой."
+    },
+    {
+        "title": "Водитель легкового автомобиля",
+        "url": "https://hh.ru/vacancy/117401996",
+        "salary_from": 70000,
+        "salary_to": 70000,
+        "description": "Стаж вождения от 3-х лет. Готовность к длительным командировкам по регионам Центральной полосы России на 1,5 -- 2,5..."
+    },
+    {
+        "title": "Водитель легкового автомобиля",
+        "url": "https://hh.ru/vacancy/117401997",
+        "salary_from": 70000,
+        "salary_to": 70000,
+        "description": "Стаж вождения от 3-х лет. Готовность к длительным командировкам по регионам Центральной полосы России на 1,5 -- 2,5..."
+    },
+    {
+        "title": "Руководитель технической службы коммунального хозяйства",
+        "url": "https://hh.ru/vacancy/117477522",
+        "salary_from": 200000,
+        "salary_to": null,
+        "description": "Желательно высшее образование в технической сфере. Опыт работы вахтовым методом не менее 3-х лет на руководящей должности. "
+    },
+    {
+        "title": "Повар",
+        "url": "https://hh.ru/vacancy/117061259",
+        "salary_from": 500000,
+        "salary_to": null,
+        "description": "От 5 лет работы. Специальное образование. Санитарная книжка. Пунктуальность. Контракт на 3 месяца (июнь, июль, август) (курорт Бурабай)."
+    },
+    {
+        "title": "Менеджер с ростом до руководителя",
+        "url": "https://hh.ru/vacancy/117347777",
+        "salary_from": 215000,
+        "salary_to": 260000,
+        "description": "У Вас есть опыт личных продаж (а именно, запчастей. Желательно грузовиков и полуприцепов (Китай, Европа, Америка), спецтехника (ППУ, ЦА-320)). "
+    },
+    {
+        "title": "Сварщик ручной-дуговой сварки 4-7 разряда",
+        "url": "https://hh.ru/vacancy/117432060",
+        "salary_from": 220000,
+        "salary_to": 240000,
+        "description": "Обязательно загран паспорт действующий. Подтвержденный опыт работы по направлению (тд.книжка, тд.договор, удостоверение) не менее двух лет. Умение работать в команде..."
+    },
+    {
+        "title": "Водитель",
+        "url": "https://hh.ru/vacancy/117253315",
+        "salary_from": 270000,
+        "salary_to": 320000,
+        "description": "Дисциплинированность. Работоспособность."
+    },
+    {
+        "title": "Сварщик ручной-дуговой сварки 4-7 разряда",
+        "url": "https://hh.ru/vacancy/117432062",
+        "salary_from": 220000,
+        "salary_to": 240000,
+        "description": "Обязательно загран паспорт действующий. Подтвержденный опыт работы по направлению (тд.книжка, тд.договор, удостоверение) не менее двух лет. Умение работать в команде..."
+    },
+    {
+        "title": "Маркшейдер (ОГР, БВР)",
+        "url": "https://hh.ru/vacancy/117497446",
+        "salary_from": 300000,
+        "salary_to": null,
+        "description": "Высшее образование - «Маркшейдерское дело». Умение работать с электронным тахеометром, GPS оборудованием. Знание пакета Microsoft office, AutoCAD, Credo. Опыт работы маркшейдером..."
+    },
+    {
+        "title": "Рабочий на автомобильный завод",
+        "url": "https://hh.ru/vacancy/116536908",
+        "salary_from": 250000,
+        "salary_to": 300000,
+        "description": "Рассматриваем кандидатов без опыта. ️ От вас:  Ответственность, пунктуальность, исполнительность, трудолюбие.  Отсутствие ограничений по здоровью. (опыт на производстве будет преимуществом)."
+    },
+    {
+        "title": "Водитель",
+        "url": "https://hh.ru/vacancy/117253316",
+        "salary_from": 270000,
+        "salary_to": 320000,
+        "description": "Дисциплинированность. Работоспособность."
     }
 ]

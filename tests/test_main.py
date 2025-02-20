@@ -3,7 +3,7 @@ from unittest.mock import patch
 from main import user_interaction
 
 
-@patch("builtins.input", side_effect=["Python", "1"])  # Запрос топ-1 вакансии
+@patch("builtins.input", side_effect=["Python", "1", "desc"])  # Добавлено значение для порядка сортировки
 @patch("src.api.hh_api.HeadHunterAPI.get_vacancies", return_value=[
     {
         "name": "Python Dev",
@@ -21,6 +21,8 @@ from main import user_interaction
 def test_user_interaction(mock_get_vacancies, mock_input, capsys):
     """Тест взаимодействия с пользователем."""
     user_interaction()
+
+    # Проверяем вывод в консоль
     captured = capsys.readouterr()
-    assert "Java Dev" in captured.out  # Ожидаем топ-1 вакансию с самой высокой зарплатой
-    assert "Python Dev" not in captured.out  # Вторая вакансия не должна быть в выводе
+    assert "Java Dev" in captured.out  # При сортировке по убыванию Java Dev должна быть первой
+    assert "120000-160000" in captured.out

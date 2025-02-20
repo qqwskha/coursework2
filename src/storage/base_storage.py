@@ -1,7 +1,6 @@
 from abc import ABC, abstractmethod
 from typing import List, Dict
 
-
 class BaseStorage(ABC):
     @abstractmethod
     def add_vacancy(self, vacancy: Dict) -> None:
