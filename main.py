@@ -31,7 +31,7 @@ def user_interaction():
     reverse = sort_order == "desc"
     sorted_vacancies = sorted(
         vacancies,
-        key=lambda x: x.salary_from or 0,
+        key=lambda x: x.salary_from or 0,  # Если salary_from равно None, используем 0
         reverse=reverse
     )
 
